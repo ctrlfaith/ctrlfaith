@@ -44,7 +44,7 @@
 
 ---
 
-### 📂 Featured Projects (คลิกที่ Repository ด้านล่าง)
+### 📂 Featured Projects (Click on the repositories below)
 - [Character CRUD with Next.js + PHP API](https://github.com/ctrlfaith/next-harrypotter)
 - [Midterm System - Laravel + MySQL](https://github.com/ctrlfaith/midterm-1017)
 - [Mobile App with Flutter](#) *(ใส่ลิงก์จริงถ้ามี)*
