@@ -44,15 +44,6 @@
 
 ---
 
-### 🧪 Interests
-- ✅ Manual & Automated Software Testing  
-- 📚 Learning new technologies  
-- 🔧 Database Management
-- ⚙️ DevOps & CI/CD
-- 🤖 Software Development with AI & Machine Learning
-
----
-
 ### 📂 Featured Projects (คลิกที่ Repository ด้านล่าง)
 - [Character CRUD with Next.js + PHP API](https://github.com/ctrlfaith/next-harrypotter)
 - [Midterm System - Laravel + MySQL](https://github.com/ctrlfaith/midterm-1017)
