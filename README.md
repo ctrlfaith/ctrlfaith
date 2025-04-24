@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Phuriphatthanachai</h1>
-<h3 align="center">A passionate 4th-year IT student from Thailand 🇹🇭</h3>
+<h3 align="center">A passionate 4th-year IT student</h3>
 
 - 🎓 Studying Computer Science and Information Technology at RBRU  
 - 🔬 Interested in **Software Testing** (especially Automation)  
