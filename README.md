@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Phuriphatthanachai</h1>
+<h3 align="center">A passionate 4th-year IT student from Thailand 🇹🇭</h3>
 
-<!--
-**ctrlfaith/ctrlfaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Studying Computer Science and Information Technology at RBRU  
+- 🔬 Interested in **Software Testing** (especially Automation)  
+- 💻 Looking to explore more roles in the IT industry  
+- 🌍 Based in Chanthaburi, Thailand  
+- 📫 Reach me at **bhm.rattanatham@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,vscode,github" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ctrlfaith&show_icons=true&theme=tokyonight" />
+</p>
