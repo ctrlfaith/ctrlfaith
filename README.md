@@ -11,51 +11,50 @@
 
 <hr />
 
-<h3>🚀 Tech Stack & Tools</h3>
+<h3 align="center">🚀 Tech Stack & Tools</h3>
 
-<h4>🧠 Programming Languages & Frameworks</h4>
-<ul>
-  <li><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></li>
-  <li><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3" alt="CSS"/></li>
-  <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript"/></li>
-  <li><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php" alt="PHP"/></li>
-  <li><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/></li>
-  <li><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart" alt="Dart"/></li>
-  <li><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter" alt="Flutter"/></li>
-  <li><img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react" alt="React"/></li>
-  <li><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/></li>
-  <li><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel" alt="Laravel"/></li>
-</ul>
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel" alt="Laravel"/>
+</div>
 
-<h4>🎨 UI / UX & Styling</h4>
-<ul>
-  <li><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind CSS"/></li>
-  <li><img src="https://img.shields.io/badge/daisyUI-4E46E5?style=flat&logo=tailwind-css" alt="daisyUI"/></li>
-  <li><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma" alt="Figma"/></li>
-  <li><img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobexd" alt="Adobe XD"/></li>
-  <li><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva" alt="Canva"/></li>
-</ul>
+<h4 align="center">🎨 UI / UX & Styling</h4>
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/daisyUI-4E46E5?style=flat&logo=tailwind-css" alt="daisyUI"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobexd" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva" alt="Canva"/>
+</div>
 
-<h4>🔧 Tools & Dev Environments</h4>
-<ul>
-  <li><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code" alt="VS Code"/></li>
-  <li><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub"/></li>
-  <li><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman" alt="Postman"/></li>
-  <li><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp" alt="XAMPP"/></li>
-  <li><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat" alt="phpMyAdmin"/></li>
-  <li><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics" alt="Looker Studio"/></li>
-</ul>
+<h4 align="center">🔧 Tools & Dev Environments</h4>
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman" alt="Postman"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp" alt="XAMPP"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat" alt="phpMyAdmin"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics" alt="Looker Studio"/>
+</div>
 
-<h4>📱 Mobile & Cross-Platform Dev</h4>
-<ul>
-  <li><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio" alt="Android Studio"/></li>
-  <li><img src="https://img.shields.io/badge/Flutlab-02569B?style=flat&logo=flutter" alt="Flutlab"/></li>
-</ul>
+<h4 align="center">📱 Mobile & Cross-Platform Dev</h4>
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Flutlab-02569B?style=flat&logo=flutter" alt="Flutlab"/>
+</div>
 
 <hr />
 
-<h3>🧪 Interests</h3>
-<ul>
+<h3 align="center">🧪 Interests</h3>
+<ul align="center">
   <li>✅ Manual & Automated Software Testing</li>
   <li>🎯 Frontend + Mobile Dev with Flutter & React</li>
   <li>📈 Dashboard / Data Visualization with Looker Studio</li>
@@ -63,8 +62,8 @@
 
 <hr />
 
-<h3>📂 Featured Projects (คลิกที่ Repository ด้านล่าง)</h3>
-<ul>
+<h3 align="center">📂 Featured Projects (คลิกที่ Repository ด้านล่าง)</h3>
+<ul align="center">
   <li><a href="https://github.com/ctrlfaith/next-harrypotter" target="_blank">Character CRUD with Next.js + PHP API</a></li>
   <li><a href="https://github.com/ctrlfaith/midterm-1017" target="_blank">Midterm System - Laravel + MySQL</a></li>
   <li><a href="#">Mobile App with Flutter</a> *(ใส่ลิงก์จริงถ้ามี)*</li>
@@ -72,7 +71,7 @@
 
 <hr />
 
-<h3>📈 GitHub Stats</h3>
+<h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ctrlfaith&show_icons=true&theme=tokyonight" />
@@ -80,9 +79,9 @@
 
 <hr />
 
-<h3>🇹🇭 ภาษาไทย</h3>
+<h3 align="center">🇹🇭 ภาษาไทย</h3>
 
-<p>
+<p align="center">
   ชื่อ นางสาว ภุริพัฒน์ธนชัย รัตนาธรรม 👋<br />
   ตอนนี้ศึกษาอยู่ปี 4 ที่สาขาเทคโนโลยีสารสนเทศ ม.ราชภัฏรำไพพรรณี<br />
   สนใจด้านการทดสอบซอฟต์แวร์ (โดยเฉพาะ Automation), การพัฒนาเว็บไซต์, และแอปพลิเคชัน<br />
