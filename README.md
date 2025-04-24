@@ -20,6 +20,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
 
 #### 🎨 UI / UX & Styling
