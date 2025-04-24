@@ -2,8 +2,7 @@
 <h3 align="center">A passionate 4th-year IT student</h3>
 
 - 🎓 Studying Computer Science and Information Technology at RBRU  
-- 🔬 Interested in **Software Testing** (especially Automation)  
-- 💻 Exploring opportunities in Web & Mobile development  
+- 🔬 Interested in **Software Testing** (especially Automation), Web & Mobile development  
 - 🌍 Based in Chanthaburi, Thailand  
 - 📫 Reach me at **bhm.rattanatham@gmail.com**
 
