@@ -45,9 +45,7 @@
 ---
 
 ### 📂 Featured Projects (Click on the repositories below)
-- [Character CRUD with Next.js + PHP API](https://github.com/ctrlfaith/next-harrypotter)
-- [Midterm System - Laravel + MySQL](https://github.com/ctrlfaith/midterm-1017)
-- [Mobile App with Flutter](#)
+- [Hogwarts DB - Harry Potter Character Management System](https://github.com/ctrlfaith/hogwarts-db) - A web app to manage Harry Potter characters with Next.js, PHP API, and API testing using Postman.
 
 ---
 
