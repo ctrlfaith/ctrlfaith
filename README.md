@@ -44,7 +44,7 @@
 
 ---
 
-### 📂 Featured Projects (Click on the repositories below)
+### 📚 Learning Projects (Click on the repositories below)
 - [Hogwarts DB - Harry Potter Character Management System](https://github.com/ctrlfaith/hogwarts-db)  
   A web app to manage Harry Potter characters.  
   - Built with Next.js + PHP API
