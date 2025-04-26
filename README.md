@@ -50,6 +50,13 @@
   - Built with Next.js + PHP API
   - Implemented CRUD operations
   - Tested API endpoints with Postman
+ 
+- [Mobile Management System - Mobile Data Management Application](https://github.com/ctrlfaith/mobile_management_system)  
+  A web application for managing mobile phones, brands, and operating systems.  
+  - Built with Laravel and Blade Templates
+  - Styled using Tailwind CSS and daisyUI
+  - Implemented full CRUD operations with MySQL database
+
 ---
 
 ### 📈 GitHub Stats
