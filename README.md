@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Phuriphatthanachai</h1>
 <h3 align="center">A passionate 4th-year IT student</h3>
 
-- 🎓 Studying Information Technology at the Faculty of Computer Science and Information Technology, RBRU
+- 🎓 Studying Information Technology at the Faculty of Computer Science and Information Technology, (มหาลัย)
 - 🏅 **GPAX**: 3.89 (ตัวอย่าง GPAX ของคุณ)
 - 🔬 Interested in **Software Testing** (especially Automation), Web & Mobile development  
 - 🌍 Based in Chanthaburi, Thailand  
