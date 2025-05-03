@@ -45,6 +45,13 @@
 ---
 
 ### 📚 Learning Projects (Click on the repositories below)
+- [Georgia Escape - Tour Package Booking Website](https://github.com/ctrlfaith/georgia-escape)  
+  A website for booking tour packages to Georgia, displaying detailed information about tourist destinations and booking options.  
+  - Built with HTML, CSS, JavaScript (Vanilla), and Bootstrap
+  - Responsive design for both desktop and mobile devices
+  - Displays tour packages, details, contact information, and blog posts
+  - Includes a reservation system for booking tours
+
 - [Hogwarts DB - Harry Potter Character Management System](https://github.com/ctrlfaith/hogwarts-db)  
   A web app to manage Harry Potter characters.  
   - Built with Next.js + PHP API
@@ -56,13 +63,6 @@
   - Built with Laravel and Blade Templates
   - Styled using Tailwind CSS and daisyUI
   - Implemented full CRUD operations with MySQL database
- 
-- [Georgia Escape - Tour Package Booking Website](https://github.com/ctrlfaith/georgia-escape)  
-  A website for booking tour packages to Georgia, displaying detailed information about tourist destinations and booking options.  
-  - Built with HTML, CSS, JavaScript (Vanilla), and Bootstrap
-  - Responsive design for both desktop and mobile devices
-  - Displays tour packages, details, contact information, and blog posts
-  - Includes a reservation system for booking tours
 
 ---
 
