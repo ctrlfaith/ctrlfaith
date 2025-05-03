@@ -8,7 +8,7 @@
 - 📫 Reach me at **bhm.rattanatham@gmail.com**
 ---
 
-### 🔧 Tech Stack & Tools
+### ⚙️ Tech Stack & Tools
 
 #### Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
