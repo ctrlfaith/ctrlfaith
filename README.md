@@ -8,7 +8,7 @@
 - 📫 Reach me at **bhm.rattanatham@gmail.com**
 ---
 
-### 🚀 Tech Stack & Tools
+### 🔧 Tech Stack & Tools
 
 #### Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-### Learning Projects (Click on the repositories below)
+### 📚 Learning Projects (Click on the repositories below)
 - [Georgia Escape - Tour Package Booking Website](https://github.com/ctrlfaith/georgia-escape)  
   A website for booking tour packages to Georgia, displaying detailed information about tourist destinations and booking options.  
   - Built with HTML, CSS, JavaScript (Vanilla), and Bootstrap
