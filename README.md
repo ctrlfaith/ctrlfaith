@@ -56,6 +56,13 @@
   - Responsive design for both desktop and mobile devices
   - Displays tour packages, details, contact information, and blog posts
   - Includes a reservation system for booking tours
+ 
+- [Sales Dashboard System](https://github.com/ctrlfaith/sales-dashboard-system)  
+  A sales dashboard system that connects with **Looker Studio** to display sales data interactively.  
+  - Built with HTML5, CSS3, JavaScript, and PHP (Procedural)
+  - Uses **phpMyAdmin** for MySQL database management
+  - Data is imported into **Google Sheets** and visualized in **Looker Studio** via iframe
+  - Interactive dashboard for viewing and analyzing sales data
 
 - [Hogwarts DB - Harry Potter Character Management System](https://github.com/ctrlfaith/hogwarts-db)  
   A web app to manage Harry Potter characters.  
