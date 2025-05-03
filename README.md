@@ -59,7 +59,7 @@
  
 - [Sales Dashboard System](https://github.com/ctrlfaith/sales-dashboard-system)  
   A sales dashboard system that connects with **Looker Studio** to display sales data interactively.  
-  - Built with HTML5, CSS3, JavaScript, and PHP (Procedural)
+  - Built with HTML, CSS, JavaScript, and PHP (Procedural)
   - Uses **phpMyAdmin** for MySQL database management
   - Data is imported into **Google Sheets** and visualized in **Looker Studio** via iframe
   - Interactive dashboard for viewing and analyzing sales data
