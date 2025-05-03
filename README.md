@@ -5,7 +5,7 @@
 - 🏅 **GPAX**: xxx
 - 🔬 Interested in **Software Testing** (especially Automation), Web & Mobile development  
 - 🌍 Based in Chanthaburi, Thailand  
-- 📫 Reach me at **bhm.rattanatham@gmail.com**
+- 📫 Reach me at **----**
 ---
 
 ### ⚙️ Tech Stack & Tools
