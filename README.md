@@ -4,7 +4,7 @@
 - 🎓 Studying Information Technology at the Faculty of Computer Science and Information Technology, (มหาลัย)
 - 🏅 **GPAX**: xxx
 - 🔬 Interested in **Software Testing** (especially Automation), Web & Mobile development  
-- 🌍 Based in Chanthaburi, Thailand  
+- 🌍 Based in ----, Thailand  
 - 📫 Reach me at **----**
 ---
 
