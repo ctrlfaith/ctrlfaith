@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm ---</h1>
 <h3 align="center">A passionate 3th-year IT student</h3>
 
-- 🎓 Studying Information Technology at the Faculty of Computer Science and Information Technology, (มหาลัย)
+- 🎓 Studying Information Technology at the Faculty of Computer Science and Information Technology, ()
 - 🏅 **GPAX**: xxx
 - 🔬 Interested in **Software Testing** (especially Automation), Web & Mobile development  
 - 🌍 Based in ----, Thailand  
