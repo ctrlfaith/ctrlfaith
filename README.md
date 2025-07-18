@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Phuriphatthanachai Rattanatham</h1>
-<h3 align="center">A passionate 4th-year IT student</h3>
+<h3 align="center">A passionate 4th-year IT student deeply interested in software testing, especially automation testing. Highly motivated to learn and develop skills through my first internship opportunity in this field, aiming to become an expert in the future.</h3>
 
 - 🎓 Currently studying **Bachelor of Information Technology**, 4th year (1st semester)  
  at the Faculty of Computer Science and Information Technology, **Rambhai Barni Rajabhat University**  
