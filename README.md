@@ -1,11 +1,14 @@
-<h1 align="center">Hi there 👋, I'm ---</h1>
-<h3 align="center">A passionate 3th-year IT student</h3>
+<h1 align="center">Hi there 👋, I'm Phuriphatthanachai Rattanatham</h1>
+<h3 align="center">A passionate 4th-year IT student</h3>
 
-- 🎓 Studying Information Technology at the Faculty of Computer Science and Information Technology, ()
-- 🏅 **GPAX**: xxx
-- 🔬 Interested in **Software Testing** (especially Automation), Web & Mobile development  
-- 🌍 Based in ----, Thailand  
-- 📫 Reach me at **----**
+- 🎓 Currently studying **Bachelor of Information Technology**, 4th year (1st semester)  
+ at the Faculty of Computer Science and Information Technology, **Rambhai Barni Rajabhat University**  
+- 🏅 **Current GPAX**: 3.90  
+- 🔬 Interested in **Software Testing** with a focus on automation tools, and also exploring Web & Mobile development 
+- 🌍 Based in **Chanthaburi, Thailand**  
+- 📫 Reach me at **bhm.rattanatham@gmail.com**  
+- 💼 Actively looking for an internship opportunity in **Software Testing**
+
 ---
 
 ### ⚙️ Tech Stack & Tools
@@ -78,10 +81,13 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🧪 Software Testing Skills & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ctrlfaith&show_icons=true&theme=tokyonight" />
-</p>
+- Experienced in API testing using **Postman**  
+- Currently studying and practicing writing **Test Cases** and **Test Reports** to improve planning and communication skills in testing  
+- Learning automation testing tools such as **Selenium** and **Playwright**  
+- Understand the concepts of different testing types, including **Functional Testing** and **Performance Testing**  
+- Aware of the importance of collaborating with development teams to enhance software quality  
+- Enthusiastic about continuously learning new testing technologies to improve efficiency
 
 ---
