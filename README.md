@@ -81,7 +81,7 @@
 
 ---
 
-### 🧪 Software Testing Skills & Tools
+### 🧪 Software Testing Skills & Tools(currently self-learning)
 
 - Experienced in API testing using **Postman**  
 - Currently studying and practicing writing **Test Cases** and **Test Reports** to improve planning and communication skills in testing  
