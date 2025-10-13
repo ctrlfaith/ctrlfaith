@@ -147,11 +147,12 @@ to strengthen both **development** and **testing** skills.
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Languages 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=donut&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9)
+
 </div>
 
 ---
