@@ -32,5 +32,15 @@ which reflects my focus on **full-stack web development** and my understanding o
 🧩 **Goal:** to become a full-stack developer who values both functionality and quality  
 
 
+## 🎓 Education  
+
+**Bachelor of Information Technology**  
+Faculty of Computer Science and Information Technology  
+**Rambhai Barni Rajabhat University** (4th year, 1st semester)  
+- 🏅 **Current GPAX:** 3.90  
+
+During my studies, I have worked on several web-based projects that have helped me develop my skills in both **Development** and **Testing**.  
+These experiences have deepened my understanding of **Full-Stack Development** and **software quality**.  
+
 
 </div>
