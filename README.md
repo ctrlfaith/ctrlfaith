@@ -75,3 +75,52 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 
 ---
 
+---
+
+## 📚 Learning Projects  
+
+Here are some of the web projects I’ve developed during my studies to strengthen both **development** and **testing** skills.  
+
+---
+
+### 🎤 [Idol Management System (Midterm Project)](https://github.com/ctrlfaith/midterm-idol-api)  
+A full-stack web application for managing idols and bands.  
+- **Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL  
+- **Focus:** API integration, CRUD operations, responsive UI  
+
+---
+
+### 🧩 [CSIT CRUD – Tasks Management API](https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL)  
+A CRUD web app for managing tasks, created for **Web Service Technology** coursework.  
+- **Tech Stack:** Laravel 11 (API), Next.js 14, Tailwind CSS, MySQL  
+- **Focus:** RESTful API, full-stack workflow, and .http testing  
+
+---
+
+### 🧳 [Georgia Escape – Tour Package Booking Website](https://github.com/ctrlfaith/georgia-escape)  
+A responsive travel booking website showcasing destinations and tour packages.  
+- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+- **Focus:** Frontend design and layout  
+
+---
+
+### 📊 [Sales Dashboard System](https://github.com/ctrlfaith/sales-dashboard-system)  
+A web-based dashboard visualizing sales data via **Looker Studio**.  
+- **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
+- **Focus:** Data visualization and dashboard integration  
+
+---
+
+### 🪄 [Hogwarts DB – Character Management System](https://github.com/ctrlfaith/hogwarts-db)  
+A CRUD app for managing Harry Potter characters.  
+- **Tech Stack:** Next.js, PHP API, Postman  
+- **Focus:** CRUD functionality and API testing  
+
+---
+
+### 📱 [Mobile Management System](https://github.com/ctrlfaith/mobile_management_system)  
+A Laravel-based CRUD web app for managing mobile phone data.  
+- **Tech Stack:** Laravel, Blade Templates, Tailwind CSS, MySQL  
+- **Focus:** Backend logic and UI styling  
+
+---
