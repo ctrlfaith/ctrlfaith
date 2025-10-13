@@ -5,7 +5,7 @@
 💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
 🚀 Exploring both **Dev** and **QA** paths to become a well-rounded software engineer  
 
-![Status](https://img.shields.io/badge/Status-Open_for_Internship-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Internship_Pending-lightgrey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=for-the-badge)
 
 ---
