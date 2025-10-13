@@ -33,6 +33,7 @@ which reflects my focus on **full-stack web development** and my understanding o
 🧩 **Goal:** to become a full-stack developer who values both functionality and quality  
 
 
+---
 ## 🎓 Education  
 
 **Bachelor of Information Technology**  
@@ -42,3 +43,36 @@ Faculty of Computer Science and Information Technology
 
 During my studies, I have worked on several web-based projects that have helped me develop my skills in both **Development** and **Testing**.  
 These experiences have deepened my understanding of **Full-Stack Development** and **software quality**. 
+
+
+---
+
+## ⚙️ Tech Stack & Tools  
+
+### 🖥️ Frontend  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![daisyUI](https://img.shields.io/badge/daisyUI-4E46E5?style=flat&logo=tailwind-css)
+
+### ⚙️ Backend  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-02569B?style=flat&logo=fastapi&logoColor=white)
+
+### 🧪 Testing & Tools  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![REST Client](https://img.shields.io/badge/REST_Client-0A66C2?style=flat&logo=visualstudiocode&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp)
+
+### 💻 Development Environment  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+---
+
