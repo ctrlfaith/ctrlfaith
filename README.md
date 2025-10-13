@@ -150,9 +150,9 @@ to strengthen both **development** and **testing** skills.
 ## 📈 GitHub Languages 
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9)
-
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=compact&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=E6EDF3&icon_color=00BFFF&bg_color=0d1117)
+  
 </div>
 
 ---
