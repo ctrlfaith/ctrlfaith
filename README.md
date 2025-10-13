@@ -49,7 +49,7 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 
 ## ⚙️ Tech Stack & Tools  
 
-### 🖥️ Frontend  
+### Frontend  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -57,19 +57,19 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![daisyUI](https://img.shields.io/badge/daisyUI-4E46E5?style=for-the-badge&logo=tailwind-css)
 
-### ⚙️ Backend  
+### Backend  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🧪 Testing & Tools  
+### Testing & Tools  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![REST Client](https://img.shields.io/badge/REST_Client-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
 
-### 💻 Development Environment  
+### Development Environment  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
@@ -80,54 +80,56 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 Here are some of the web projects I’ve developed during my studies  
 to strengthen both **development** and **testing** skills.  
 
+💡 **Click on any project title below to view its full repository and documentation.**
+
 ---
 
 ### 🎤 [Idol Management System](https://github.com/ctrlfaith/Idol-Management-System)  
 A full-stack web application for managing idols and bands.  
-- 🧰 **Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL  
-- 🎯 **Focus:** API integration, CRUD operations, responsive UI  
+- **Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL  
+- **Focus:** API integration, CRUD operations, responsive UI  
 
 ---
 
 ### 🧩 [CSIT CRUD – Tasks Management API](https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL)  
 A CRUD web app for managing tasks, created for **Web Service Technology** coursework.  
-- 🧰 **Tech Stack:** Laravel 11 (API), Next.js 14, Tailwind CSS, MySQL  
-- 🎯 **Focus:** RESTful API, full-stack workflow, and .http testing  
+- **Tech Stack:** Laravel 11 (API), Next.js 14, Tailwind CSS, MySQL  
+- **Focus:** RESTful API, full-stack workflow, and .http testing  
 
 ---
 
 ### 🧳 [Georgia Escape – Tour Package Booking Website](https://github.com/ctrlfaith/georgia-escape)  
 A responsive travel booking website showcasing destinations and tour packages.  
-- 🧰 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-- 🎯 **Focus:** Frontend design and layout  
+- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+- **Focus:** Frontend design and layout  
 
 ---
 
 ### 📊 [Sales Dashboard System](https://github.com/ctrlfaith/sales-dashboard-system)  
 A web-based dashboard visualizing sales data via **Looker Studio**.  
-- 🧰 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
-- 🎯 **Focus:** Data visualization and dashboard integration  
+- **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
+- **Focus:** Data visualization and dashboard integration  
 
 ---
 
 ### 🪄 [Hogwarts DB – Character Management System](https://github.com/ctrlfaith/hogwarts-db)  
 A CRUD app for managing Harry Potter characters.  
-- 🧰 **Tech Stack:** Next.js, PHP API, Postman  
-- 🎯 **Focus:** CRUD functionality and API testing  
+- **Tech Stack:** Next.js, PHP API, Postman  
+- **Focus:** CRUD functionality and API testing  
 
 ---
 
 ### 📱 [Mobile Management System](https://github.com/ctrlfaith/mobile_management_system)  
 A Laravel-based CRUD web app for managing mobile phone data.  
-- 🧰 **Tech Stack:** Laravel, Blade Templates, Tailwind CSS, MySQL  
-- 🎯 **Focus:** Backend logic and UI styling  
+- **Tech Stack:** Laravel, Blade Templates, Tailwind CSS, MySQL  
+- **Focus:** Backend logic and UI styling  
 
 ---
 
 <div align="center">
 
 ✨ *Thanks for reading!* ✨  
-💬 Feel free to explore my repositories and projects below.  
-If you'd like to connect — I’m always open to collaboration or feedback!
+Feel free to explore my repositories and projects below.  
+I'm always open to collaboration and learning together!  
 
 </div>
