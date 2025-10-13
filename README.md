@@ -85,51 +85,51 @@ to strengthen both **development** and **testing** skills.
 
 💡 **Click on any project title below to view its full repository and documentation.**
 
-<br>
+<hr style="height:3px; background-color:#007acc; border:none; margin:20px 0;">
+
+<div align="left">
+
+### 🎤 [Idol Management System](https://github.com/ctrlfaith/Idol-Management-System)
+> A full-stack web application for managing idols and bands.  
+> - **Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL  
+> - **Focus:** API integration, CRUD operations, responsive UI  
 
 ---
 
-### 🎤 [Idol Management System](https://github.com/ctrlfaith/Idol-Management-System)  
-A full-stack web application for managing idols and bands.  
-- **Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL  
-- **Focus:** API integration, CRUD operations, responsive UI  
+### 🧩 [CSIT CRUD – Tasks Management API](https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL)
+> A CRUD web app for managing tasks, created for **Web Service Technology** coursework.  
+> - **Tech Stack:** Laravel 11 (API), Next.js 14, Tailwind CSS, MySQL  
+> - **Focus:** RESTful API, full-stack workflow, and .http testing  
 
 ---
 
-### 🧩 [CSIT CRUD – Tasks Management API](https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL)  
-A CRUD web app for managing tasks, created for **Web Service Technology** coursework.  
-- **Tech Stack:** Laravel 11 (API), Next.js 14, Tailwind CSS, MySQL  
-- **Focus:** RESTful API, full-stack workflow, and .http testing  
+### 🧳 [Georgia Escape – Tour Package Booking Website](https://github.com/ctrlfaith/georgia-escape)
+> A responsive travel booking website showcasing destinations and tour packages.  
+> - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+> - **Focus:** Frontend design and layout  
 
 ---
 
-### 🧳 [Georgia Escape – Tour Package Booking Website](https://github.com/ctrlfaith/georgia-escape)  
-A responsive travel booking website showcasing destinations and tour packages.  
-- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-- **Focus:** Frontend design and layout  
+### 📊 [Sales Dashboard System](https://github.com/ctrlfaith/sales-dashboard-system)
+> A web-based dashboard visualizing sales data via **Looker Studio**.  
+> - **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
+> - **Focus:** Data visualization and dashboard integration  
 
 ---
 
-### 📊 [Sales Dashboard System](https://github.com/ctrlfaith/sales-dashboard-system)  
-A web-based dashboard visualizing sales data via **Looker Studio**.  
-- **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
-- **Focus:** Data visualization and dashboard integration  
+### 🪄 [Hogwarts DB – Character Management System](https://github.com/ctrlfaith/hogwarts-db)
+> A CRUD app for managing Harry Potter characters.  
+> - **Tech Stack:** Next.js, PHP API, Postman  
+> - **Focus:** CRUD functionality and API testing  
 
 ---
 
-### 🪄 [Hogwarts DB – Character Management System](https://github.com/ctrlfaith/hogwarts-db)  
-A CRUD app for managing Harry Potter characters.  
-- **Tech Stack:** Next.js, PHP API, Postman  
-- **Focus:** CRUD functionality and API testing  
+### 📱 [Mobile Management System](https://github.com/ctrlfaith/mobile_management_system)
+> A Laravel-based CRUD web app for managing mobile phone data.  
+> - **Tech Stack:** Laravel, Blade Templates, Tailwind CSS, MySQL  
+> - **Focus:** Backend logic and UI styling  
 
----
-
-### 📱 [Mobile Management System](https://github.com/ctrlfaith/mobile_management_system)  
-A Laravel-based CRUD web app for managing mobile phone data.  
-- **Tech Stack:** Laravel, Blade Templates, Tailwind CSS, MySQL  
-- **Focus:** Backend logic and UI styling  
-
-<br>
+</div>
 
 ---
 
