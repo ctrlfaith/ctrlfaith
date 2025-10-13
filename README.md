@@ -5,8 +5,8 @@
 💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
 🚀 Exploring both **Dev** and **QA** paths to become a well-rounded software engineer  
 
-![Status](https://img.shields.io/badge/Status-Open_for_Internship-brightgreen?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_for_Internship-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=for-the-badge)
 
 ---
 
@@ -17,6 +17,7 @@
 ---
 
 ## 👨‍💻 About Me  
+<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 I'm a 4th-year IT student who enjoys learning and building web applications.  
 
@@ -37,6 +38,7 @@ which reflects my focus on **full-stack web development** and my understanding o
 ---
 
 ## 🎓 Education  
+<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 **Bachelor of Information Technology**  
 Faculty of Computer Science and Information Technology  
@@ -51,6 +53,7 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 ---
 
 ## ⚙️ Tech Stack & Tools  
+<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 ### Frontend  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -79,17 +82,18 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 ---
 
 ## 📚 Learning Projects  
+<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 Here are some of the web projects I’ve developed during my studies  
 to strengthen both **development** and **testing** skills.  
 
 💡 **Click on any project title below to view its full repository and documentation.**
 
-<hr style="height:3px; background-color:#e5e7eb; border:none; margin:20px 0 8px;">
+<br>
 
 <div align="left">
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🎤 <a href="https://github.com/ctrlfaith/Idol-Management-System">Idol Management System</a></h3>
   <p>A full-stack web application for managing idols and bands.</p>
   <ul>
@@ -98,7 +102,7 @@ to strengthen both **development** and **testing** skills.
   </ul>
 </div>
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🧩 <a href="https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL">CSIT CRUD – Tasks Management API</a></h3>
   <p>A CRUD web app for managing tasks, created for <strong>Web Service Technology</strong> coursework.</p>
   <ul>
@@ -107,7 +111,7 @@ to strengthen both **development** and **testing** skills.
   </ul>
 </div>
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🧳 <a href="https://github.com/ctrlfaith/georgia-escape">Georgia Escape – Tour Package Booking Website</a></h3>
   <p>A responsive travel booking website showcasing destinations and tour packages.</p>
   <ul>
@@ -116,7 +120,7 @@ to strengthen both **development** and **testing** skills.
   </ul>
 </div>
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>📊 <a href="https://github.com/ctrlfaith/sales-dashboard-system">Sales Dashboard System</a></h3>
   <p>A web-based dashboard visualizing sales data via <strong>Looker Studio</strong>.</p>
   <ul>
@@ -125,7 +129,7 @@ to strengthen both **development** and **testing** skills.
   </ul>
 </div>
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🪄 <a href="https://github.com/ctrlfaith/hogwarts-db">Hogwarts DB – Character Management System</a></h3>
   <p>A CRUD app for managing Harry Potter characters.</p>
   <ul>
@@ -134,7 +138,7 @@ to strengthen both **development** and **testing** skills.
   </ul>
 </div>
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>📱 <a href="https://github.com/ctrlfaith/mobile_management_system">Mobile Management System</a></h3>
   <p>A Laravel-based CRUD web app for managing mobile phone data.</p>
   <ul>
@@ -147,12 +151,15 @@ to strengthen both **development** and **testing** skills.
 
 ---
 
-## 📈 GitHub Languages 
+## 📈 GitHub Languages  
+<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=compact&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=E6EDF3&icon_color=00BFFF&bg_color=0d1117)
-  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=donut&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=E6EDF3&icon_color=00BFFF&bg_color=0d1117)
+
+<p style="font-size:14px; color:#8b949e;">A quick overview of the main programming languages I use most often on GitHub.</p>
+
 </div>
 
 ---
@@ -169,6 +176,6 @@ I'd love to hear from you!
 
 ---
 
-> “I build to learn, and learn by building.”  
+> 💬 *“I build to learn, and learn by building.”*  
 
 </div>
