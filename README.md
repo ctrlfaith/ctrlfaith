@@ -151,8 +151,7 @@ to strengthen both **development** and **testing** skills.
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=donut&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff)
 </div>
 
 ---
