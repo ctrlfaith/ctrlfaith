@@ -168,8 +168,4 @@ I have fun learning and creating software, and I'm always enthusiastic about lea
 If you're searching for a motivated intern or want to talk tech,  
 I'd love to hear from you!  
 
----
-
-> 💬 *“I build to learn, and learn by building.”*  
-
 </div>
