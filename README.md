@@ -7,6 +7,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Web+Development+%7C+API+Design+%7C+Software+Testing;Always+learning+and+building+better+software!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Web+Development+%7C+API+Design+%7C+Software+Testing;Always+learning+and+building+better+software!)](https://git.io/typing-svg)
 
 </div>
