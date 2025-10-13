@@ -1,13 +1,12 @@
 <div align="center">
-  
-# 👋 Hi there, I'm **Phuriphatthanachai Rattanatham**  
+
+# 👋 Hi there, I'm **Phuriphatthanachai Rattanatham**
 🎓 4th-year IT Student at Rambhai Barni Rajabhat University  
-💡 Passionate about **Software Testing**, especially **Automation Testing**  
-🚀 Seeking my first internship opportunity to grow into a future QA expert.  
+💻 Passionate about **Web Development**, **API Design**, and **Software Testing**  
+🚀 Exploring both **Dev** and **QA** paths to become a well-rounded software engineer.  
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Software+Testing+%7C+Automation+%7C+Web+Dev;Always+learning+and+improving!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Web+Development+%7C+API+Design+%7C+Software+Testing;Always+learning+and+building+better+software!)](https://git.io/typing-svg)
 
 </div>
-
