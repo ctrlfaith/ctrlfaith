@@ -8,7 +8,6 @@
 ![Status](https://img.shields.io/badge/Status-Internship_Pending-lightgrey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=for-the-badge)
 
----
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Web+Development+%7C+API+Development+%7C+Software+Testing;Always+learning+and+building+better+software!)](https://git.io/typing-svg)
 
