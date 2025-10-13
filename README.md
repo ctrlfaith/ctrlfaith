@@ -85,6 +85,8 @@ to strengthen both **development** and **testing** skills.
 
 💡 **Click on any project title below to view its full repository and documentation.**
 
+<br>
+
 ---
 
 ### 🎤 [Idol Management System](https://github.com/ctrlfaith/Idol-Management-System)  
@@ -126,6 +128,8 @@ A CRUD app for managing Harry Potter characters.
 A Laravel-based CRUD web app for managing mobile phone data.  
 - **Tech Stack:** Laravel, Blade Templates, Tailwind CSS, MySQL  
 - **Focus:** Backend logic and UI styling  
+
+<br>
 
 ---
 
