@@ -151,7 +151,6 @@ to strengthen both **development** and **testing** skills.
 
 <div align="center">
 
-![Phuriphatthanachai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlfaith&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
