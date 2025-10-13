@@ -85,49 +85,63 @@ to strengthen both **development** and **testing** skills.
 
 💡 **Click on any project title below to view its full repository and documentation.**
 
-<hr style="height:3px; background-color:#007acc; border:none; margin:20px 0;">
+<hr style="height:3px; background-color:#e5e7eb; border:none; margin:20px 0 8px;">
 
 <div align="left">
 
-### 🎤 [Idol Management System](https://github.com/ctrlfaith/Idol-Management-System)
-> A full-stack web application for managing idols and bands.  
-> - **Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL  
-> - **Focus:** API integration, CRUD operations, responsive UI  
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+  <h3>🎤 <a href="https://github.com/ctrlfaith/Idol-Management-System">Idol Management System</a></h3>
+  <p>A full-stack web application for managing idols and bands.</p>
+  <ul>
+    <li><strong>Tech Stack:</strong> Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL</li>
+    <li><strong>Focus:</strong> API integration, CRUD operations, responsive UI</li>
+  </ul>
+</div>
 
----
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+  <h3>🧩 <a href="https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL">CSIT CRUD – Tasks Management API</a></h3>
+  <p>A CRUD web app for managing tasks, created for <strong>Web Service Technology</strong> coursework.</p>
+  <ul>
+    <li><strong>Tech Stack:</strong> Laravel 11 (API), Next.js 14, Tailwind CSS, MySQL</li>
+    <li><strong>Focus:</strong> RESTful API, full-stack workflow, and .http testing</li>
+  </ul>
+</div>
 
-### 🧩 [CSIT CRUD – Tasks Management API](https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL)
-> A CRUD web app for managing tasks, created for **Web Service Technology** coursework.  
-> - **Tech Stack:** Laravel 11 (API), Next.js 14, Tailwind CSS, MySQL  
-> - **Focus:** RESTful API, full-stack workflow, and .http testing  
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+  <h3>🧳 <a href="https://github.com/ctrlfaith/georgia-escape">Georgia Escape – Tour Package Booking Website</a></h3>
+  <p>A responsive travel booking website showcasing destinations and tour packages.</p>
+  <ul>
+    <li><strong>Tech Stack:</strong> HTML, CSS, JavaScript, Bootstrap</li>
+    <li><strong>Focus:</strong> Frontend design and layout</li>
+  </ul>
+</div>
 
----
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+  <h3>📊 <a href="https://github.com/ctrlfaith/sales-dashboard-system">Sales Dashboard System</a></h3>
+  <p>A web-based dashboard visualizing sales data via <strong>Looker Studio</strong>.</p>
+  <ul>
+    <li><strong>Tech Stack:</strong> HTML, CSS, JavaScript, PHP, MySQL</li>
+    <li><strong>Focus:</strong> Data visualization and dashboard integration</li>
+  </ul>
+</div>
 
-### 🧳 [Georgia Escape – Tour Package Booking Website](https://github.com/ctrlfaith/georgia-escape)
-> A responsive travel booking website showcasing destinations and tour packages.  
-> - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-> - **Focus:** Frontend design and layout  
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+  <h3>🪄 <a href="https://github.com/ctrlfaith/hogwarts-db">Hogwarts DB – Character Management System</a></h3>
+  <p>A CRUD app for managing Harry Potter characters.</p>
+  <ul>
+    <li><strong>Tech Stack:</strong> Next.js, PHP API, Postman</li>
+    <li><strong>Focus:</strong> CRUD functionality and API testing</li>
+  </ul>
+</div>
 
----
-
-### 📊 [Sales Dashboard System](https://github.com/ctrlfaith/sales-dashboard-system)
-> A web-based dashboard visualizing sales data via **Looker Studio**.  
-> - **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
-> - **Focus:** Data visualization and dashboard integration  
-
----
-
-### 🪄 [Hogwarts DB – Character Management System](https://github.com/ctrlfaith/hogwarts-db)
-> A CRUD app for managing Harry Potter characters.  
-> - **Tech Stack:** Next.js, PHP API, Postman  
-> - **Focus:** CRUD functionality and API testing  
-
----
-
-### 📱 [Mobile Management System](https://github.com/ctrlfaith/mobile_management_system)
-> A Laravel-based CRUD web app for managing mobile phone data.  
-> - **Tech Stack:** Laravel, Blade Templates, Tailwind CSS, MySQL  
-> - **Focus:** Backend logic and UI styling  
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin:14px 0;">
+  <h3>📱 <a href="https://github.com/ctrlfaith/mobile_management_system">Mobile Management System</a></h3>
+  <p>A Laravel-based CRUD web app for managing mobile phone data.</p>
+  <ul>
+    <li><strong>Tech Stack:</strong> Laravel, Blade Templates, Tailwind CSS, MySQL</li>
+    <li><strong>Focus:</strong> Backend logic and UI styling</li>
+  </ul>
+</div>
 
 </div>
 
