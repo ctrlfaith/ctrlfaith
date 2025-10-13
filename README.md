@@ -9,6 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Web+Development+%7C+API+Development+%7C+Software+Testing;Always+learning+and+building+better+software!)](https://git.io/typing-svg)
 
+</div>
 
 ## 👨‍💻 About Me  
 
@@ -40,7 +41,4 @@ Faculty of Computer Science and Information Technology
 - 🏅 **Current GPAX:** 3.90  
 
 During my studies, I have worked on several web-based projects that have helped me develop my skills in both **Development** and **Testing**.  
-These experiences have deepened my understanding of **Full-Stack Development** and **software quality**.  
-
-
-</div>
+These experiences have deepened my understanding of **Full-Stack Development** and **software quality**. 
