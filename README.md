@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm **---**  
+# 👋 Hi there, I'm Phuriphatthanachai Rattanatham
 🎓 4th-year IT Student at ---
 💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
 🚀 Exploring both **Dev** and **QA** paths to become a well-rounded software engineer  
