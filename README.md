@@ -16,7 +16,6 @@
 ---
 
 ## 👨‍💻 About Me  
-<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 I'm a 4th-year IT student who enjoys learning and building web applications.  
 
@@ -37,7 +36,6 @@ which reflects my focus on **full-stack web development** and my understanding o
 ---
 
 ## 🎓 Education  
-<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 **Bachelor of Information Technology**  
 Faculty of Computer Science and Information Technology  
@@ -52,7 +50,6 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 ---
 
 ## ⚙️ Tech Stack & Tools  
-<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 ### Frontend  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -81,7 +78,6 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 ---
 
 ## 📚 Learning Projects  
-<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 Here are some of the web projects I’ve developed during my studies  
 to strengthen both **development** and **testing** skills.  
@@ -151,7 +147,6 @@ to strengthen both **development** and **testing** skills.
 ---
 
 ## 📈 GitHub Languages  
-<hr style="height:2px; background-color:#e5e7eb; border:none; margin:6px 0 18px;">
 
 <div align="center">
 
