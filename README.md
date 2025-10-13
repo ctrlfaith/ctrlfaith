@@ -5,6 +5,9 @@
 💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
 🚀 Exploring both **Dev** and **QA** paths to become a well-rounded software engineer  
 
+![Status](https://img.shields.io/badge/Status-Open_for_Internship-brightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=flat-square)
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Web+Development+%7C+API+Development+%7C+Software+Testing;Always+learning+and+building+better+software!)](https://git.io/typing-svg)
@@ -126,6 +129,17 @@ A Laravel-based CRUD web app for managing mobile phone data.
 
 ---
 
+## 📈 GitHub Stats  
+
+<div align="center">
+
+![Phuriphatthanachai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlfaith&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 <div align="center">
 
 ✨ **Thanks for checking out my profile!** ✨  
@@ -136,5 +150,8 @@ I have fun learning and creating software, and I'm always enthusiastic about lea
 If you're searching for a motivated intern or want to talk tech,  
 I'd love to hear from you!  
 
-</div>
+---
 
+> “I build to learn, and learn by building.”  
+
+</div>
