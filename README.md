@@ -83,7 +83,7 @@ Here are some of the web projects I’ve developed during my studies to strength
 
 ---
 
-### 🎤 [Idol Management System (Midterm Project)](https://github.com/ctrlfaith/midterm-idol-api)  
+### 🎤 [Idol Management System (Midterm Project)](https://github.com/ctrlfaith/Idol-Management-System.git)  
 A full-stack web application for managing idols and bands.  
 - **Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL  
 - **Focus:** API integration, CRUD operations, responsive UI  
