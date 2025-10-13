@@ -128,8 +128,13 @@ A Laravel-based CRUD web app for managing mobile phone data.
 
 <div align="center">
 
-✨ *Thanks for reading!* ✨  
-Feel free to explore my repositories and projects below.  
-I'm always open to collaboration and learning together!  
+✨ **Thanks for checking out my profile!** ✨  
+
+Go ahead and dive into my projects and repositories.  
+I have fun learning and creating software, and I'm always enthusiastic about learning from the community.  
+
+If you're searching for a motivated intern or want to talk tech,  
+I'd love to hear from you!  
 
 </div>
+
