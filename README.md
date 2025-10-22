@@ -89,6 +89,17 @@ to strengthen both **development** and **testing** skills.
 <div align="left">
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <h3>🎬 <a href="https://github.com/ctrlfaith/netflix-eda">Netflix Movies & TV Shows – Exploratory Data Analysis (EDA)</a></h3>
+  <p>An exploratory data analysis project on Netflix’s global content dataset, 
+     focusing on production countries, genres, and content growth trends.</p>
+  <ul>
+    <li><strong>Tech Stack:</strong> Python, Pandas, Matplotlib, Kaggle Notebook</li>
+    <li><strong>Focus:</strong> Data cleaning, visualization, and insight discovery</li>
+    <li><strong>View Full Notebook:</strong> <a href="https://www.kaggle.com/code/phuriphattnc/netflix-eda-1014-phuriphatthanachai">Kaggle Project Link</a></li>
+  </ul>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🎤 <a href="https://github.com/ctrlfaith/Idol-Management-System">Idol Management System</a></h3>
   <p>A full-stack web application for managing idols and bands.</p>
   <ul>
