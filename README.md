@@ -95,7 +95,6 @@ to strengthen both **development** and **testing** skills.
   <ul>
     <li><strong>Tech Stack:</strong> Python, Pandas, Matplotlib, Kaggle Notebook</li>
     <li><strong>Focus:</strong> Data cleaning, visualization, and insight discovery</li>
-    <li><strong>View Full Notebook:</strong> <a href="https://www.kaggle.com/code/phuriphattnc/netflix-eda-1014-phuriphatthanachai">Kaggle Project Link</a></li>
   </ul>
 </div>
 
