@@ -35,6 +35,14 @@ which reflects my focus on **full-stack web development** and my understanding o
 
 ---
 
+## 📬 Contact Me  
+
+📇 **LinkedIn:** [linkedin.com/in/phuriphatthanachai-rattanatham-3b0ba4375](https://www.linkedin.com/in/phuriphatthanachai-rattanatham-3b0ba4375)  
+💻 **GitHub:** [github.com/ctrlfaith](https://github.com/ctrlfaith)  
+📧 **Email:** [bhm.rattanatham@gmail.com](mailto:bhm.rattanatham@gmail.com)
+
+---
+
 ## 🎓 Education  
 
 **Bachelor of Information Technology**  
@@ -177,17 +185,6 @@ to strengthen both **development** and **testing** skills.
 
 ---
 
-## 📬 Contact Me  
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phuriphatthanachai-rattanatham)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ctrlfaith)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhm.rattanatham@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 
