@@ -49,7 +49,7 @@ which reflects my focus on **full-stack web development** and my understanding o
 Faculty of Computer Science and Information Technology  
 **Rambhai Barni Rajabhat University** (4th year, 1st semester)  
 
-🏅 **Current GPAX:** 3.90  
+🏅 **Current GPAX:** 3.91
 
 During my studies, I have worked on several web-based projects  
 that have helped me develop my skills in both **Development** and **Testing**.  
