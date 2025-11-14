@@ -106,6 +106,19 @@ to strengthen both **development** and **testing** skills.
 <div align="left">
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <h3>🌱 <a href="https://github.com/ctrlfaith/Greenplot-Manager">GreenPlot Manager — Smart Farming Management System</a></h3>
+  <p>A full-stack agricultural management system designed to help farmers record, track, analyze, 
+     and manage all plantation activities — including garden data, plants, planting records, costs, 
+     buyers, and production reports — with automated notifications via LINE Messaging API.</p>
+
+  <ul>
+    <li><strong>Tech Stack:</strong> Laravel, PHP, Tailwind CSS, JavaScript (Alpine.js), MySQL, Chart.js, Laravel DomPDF, LINE Messaging API</li>
+    <li><strong>Focus:</strong> CRUD systems, cost & profit analysis, scheduled reminders, dashboard analytics, PDF reports</li>
+  </ul>
+</div>
+
+
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🎬 <a href="https://github.com/ctrlfaith/netflix-eda">Netflix Movies & TV Shows – Exploratory Data Analysis (EDA)</a></h3>
   <p>An exploratory data analysis project on Netflix’s global content dataset, 
      focusing on production countries, genres, and content growth trends.</p>
