@@ -150,7 +150,7 @@ to strengthen both **development** and **testing** skills.
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🧳 <a href="https://github.com/ctrlfaith/georgia-escape">Georgia Escape – Tour Package Booking Website</a></h3>
+  <h3>🧳 <a href="https://github.com/ctrlfaith/georgia-escape">Georgia Escape – Tour Package Booking Website (Showcase)</a></h3>
   <p>A responsive travel booking website showcasing destinations and tour packages.</p>
   <ul>
     <li><strong>Tech Stack:</strong> HTML, CSS, JavaScript, Bootstrap</li>
