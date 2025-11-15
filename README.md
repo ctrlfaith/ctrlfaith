@@ -106,17 +106,20 @@ to strengthen both **development** and **testing** skills.
 <div align="left">
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🌱 <a href="https://github.com/ctrlfaith/Greenplot-Manager">GreenPlot Manager — Smart Farming Management System</a></h3>
-  <p>A full-stack agricultural management system designed to help farmers record, track, analyze, 
-     and manage all plantation activities — including garden data, plants, planting records, costs, 
-     buyers, and production reports — with automated notifications via LINE Messaging API.</p>
+  <h3>🌱 <a href="https://github.com/ctrlfaith/Greenplot-Manager-Showcase">GreenPlot — Agricultural Management System (Showcase)</a></h3>
+  <p>GreenPlot is an agricultural management system developed to help farmers efficiently record, 
+     track, analyze, and manage all essential farming activities — including garden information, 
+     plant data, planting records, cost management, buyer details, and production reports. 
+     It also features automated notifications via the LINE Messaging API to ensure that users 
+     never miss important farming tasks or schedules.</p>
 
   <ul>
-    <li><strong>Tech Stack:</strong> Laravel, PHP, Tailwind CSS, JavaScript (Alpine.js), MySQL, Chart.js, Laravel DomPDF, LINE Messaging API</li>
-    <li><strong>Focus:</strong> CRUD systems, cost & profit analysis, scheduled reminders, dashboard analytics, PDF reports</li>
+    <li><strong>Tech Stack:</strong> Laravel, PHP, HTML, CSS, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API</li> 
+    <li><strong>Key Features:</strong> CRUD operations, cost and profit analysis, scheduled reminders, 
+        dashboard analytics, PDF report generation, and LINE API integration</li>
+    <li><strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.</li>
   </ul>
 </div>
-
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🎬 <a href="https://github.com/ctrlfaith/netflix-eda">Netflix Movies & TV Shows – Exploratory Data Analysis (EDA)</a></h3>
