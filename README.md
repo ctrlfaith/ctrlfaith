@@ -155,6 +155,7 @@ to strengthen both **development** and **testing** skills.
   <ul>
     <li><strong>Tech Stack:</strong> HTML, CSS, JavaScript, Bootstrap</li>
     <li><strong>Focus:</strong> Frontend design and layout</li>
+    <li><strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.</li>
   </ul>
 </div>
 
