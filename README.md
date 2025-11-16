@@ -47,7 +47,7 @@ which reflects my focus on **full-stack web development** and my understanding o
 
 **Bachelor of Information Technology**  
 Faculty of Computer Science and Information Technology  
-**Rambhai Barni Rajabhat University** (4th year, 1st semester)  
+**Rambhai Barni Rajabhat University** (4th year, 2st semester)  
 
 🏅 **Current GPAX:** 3.91
 
