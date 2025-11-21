@@ -15,23 +15,22 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-I'm a 4th-year IT student who enjoys learning and building web applications.  
+I am a 4th-year IT student focused on learning how to build web applications, prioritizing code quality and system reliability.
 
-I'm interested in how the **development** and **testing** sides can work together  
-to improve software quality — both in terms of reliability and maintainability.  
+I am especially interested in how **development** and **testing** work together to improve quality and maintainability.
 
-Right now, I'm working on various projects to practice my skills in **Laravel**, **Next.js**, **Tailwind CSS**, and **RESTful APIs**,  
-while also learning more about **Software Testing** and **API Integration**.  
+Currently, I am practicing with modern web technologies spanning both server-side and client-side development, and **RESTful APIs**, while deepening my understanding of **software testing** and **API integration**. My work reflects a full-stack mindset with a focus on correctness and clarity.
 
-My main tech stack includes **Laravel**, **Next.js**, **Tailwind CSS**, **MySQL**, and **Postman**,  
-which reflects my focus on **full-stack web development** and my understanding of software quality.  
+I prioritize thoroughness and a systematic approach in my work, focusing on small iterations and practical testing to ensure correctness at each step. I enjoy turning ideas into simple products that feel fast, stable, and easy to extend.
 
-🌱 **Currently learning:** Laravel, Next.js, Tailwind CSS  
-🔍 **Especially interested in:** Web Development, RESTful APIs, Software Testing  
-⚙️ **I like:** coding, solving problems, and understanding how things work under the hood  
-🧩 **Goal:** to become a full-stack developer who values both functionality and quality  
+---
+
+### 💡 Quick Info
+
+* 🔍 **Interested in:** Web Development · RESTful APIs · Software Testing
+* ⚙️ **I like:** coding, problem-solving, understanding how things work
 
 ---
 
