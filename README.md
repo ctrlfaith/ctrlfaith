@@ -114,82 +114,185 @@ to strengthen both **development** and **testing** skills.
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🌱 <a href="https://github.com/ctrlfaith/Greenplot-Manager-Showcase">GreenPlot — Agricultural Management System (Showcase)</a></h3>
-  <p>GreenPlot is an agricultural management system developed to help farmers efficiently record, 
-     track, analyze, and manage all essential farming activities — including garden information, 
-     plant data, planting records, cost management, buyer details, and production reports. 
-     It also features automated notifications via the LINE Messaging API to ensure that users 
-     never miss important farming tasks or schedules.</p>
+<div>
+  <p>GreenPlot is an agricultural management system developed to help farmers efficiently record, track, analyze, and manage all essential farming activities — including garden information, plant data, planting records, cost management, buyer details, and production reports. It also features automated notifications via the LINE Messaging API to ensure that users never miss important farming tasks or schedules.</p>
 
   <ul>
-    <li><strong>Tech Stack:</strong> Laravel, PHP, HTML, CSS, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API</li> 
-    <li><strong>Key Features:</strong> CRUD operations, cost and profit analysis, scheduled reminders, 
-        dashboard analytics, PDF report generation, and LINE API integration</li>
-    <li><strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.</li>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>CRUD operations</li>
+        <li>Cost and profit analysis</li>
+        <li>Scheduled reminders</li>
+        <li>Dashboard analytics</li>
+        <li>PDF report generation</li>
+        <li>LINE API integration</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tech Stack:</strong>
+      Laravel, PHP, HTML, CSS, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
+    </li>
+    <li>
+      <strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.
+    </li>
   </ul>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🎬 <a href="https://github.com/ctrlfaith/netflix-eda">Netflix Movies & TV Shows – Exploratory Data Analysis (EDA)</a></h3>
-  <p>An exploratory data analysis project on Netflix’s global content dataset, 
-     focusing on production countries, genres, and content growth trends.</p>
+  <p>An exploratory data analysis project on Netflix's global content dataset using **Python** and **Pandas**. The analysis focuses on discovering trends in content production countries, popular genres, content growth patterns over years, and viewer rating distributions. Developed as a Data Mining coursework project to practice data analysis and visualization skills.</p>
   <ul>
-    <li><strong>Tech Stack:</strong> Python, Pandas, Matplotlib, Kaggle Notebook</li>
-    <li><strong>Focus:</strong> Data cleaning, visualization, and insight discovery</li>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>Data cleaning and preprocessing</li>
+        <li>Statistical analysis</li>
+        <li>Data visualization with Matplotlib</li>
+        <li>Trend discovery and insights</li>
+        <li>Content growth analysis</li>
+        <li>Genre and rating patterns</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tech Stack:</strong>
+      Python, Pandas, Matplotlib, NumPy, Kaggle Notebook
+    </li>
   </ul>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🎤 <a href="https://github.com/ctrlfaith/Idol-Management-System">Idol Management System</a></h3>
-  <p>A full-stack web application for managing idols and bands.</p>
+  <p>A full-stack web application for managing idols and bands with **complete CRUD functionality**. The system features a **Laravel RESTful API backend** connected to a **Next.js frontend**, allowing users to manage detailed information about idols (stage names, profiles, social media) and bands (debut years, agencies, member relationships). Developed as a Web Service Technology midterm project.</p>
   <ul>
-    <li><strong>Tech Stack:</strong> Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL</li>
-    <li><strong>Focus:</strong> API integration, CRUD operations, responsive UI</li>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>RESTful API architecture</li>
+        <li>One-to-Many relationships</li>
+        <li>Complete CRUD operations</li>
+        <li>Responsive UI with DaisyUI</li>
+        <li>Social media integration</li>
+        <li>Comprehensive data management</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tech Stack:</strong>
+      Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL
+    </li>
   </ul>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🧩 <a href="https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL">CSIT CRUD – Tasks Management API</a></h3>
-  <p>A CRUD web app for managing tasks, created for <strong>Web Service Technology</strong> coursework.</p>
+  <p>A tasks management system built with **Laravel API** and **Next.js frontend**, created for **Web Service Technology** coursework. The application demonstrates **full-stack workflow** with **RESTful API development**, featuring task **CRUD operations** with properties like title, description, status, priority, and due dates. Includes comprehensive API testing using **REST Client (.http)** in Visual Studio Code.</p>
   <ul>
-    <li><strong>Tech Stack:</strong> Laravel 11 (API), Next.js 14, Tailwind CSS, MySQL</li>
-    <li><strong>Focus:</strong> RESTful API, full-stack workflow, and .http testing</li>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>RESTful API development</li>
+        <li>Full-stack CRUD workflow</li>
+        <li>Task management system</li>
+        <li>API testing with .http files</li>
+        <li>Status and priority tracking</li>
+        <li>Real-time data synchronization</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tech Stack:</strong>
+      Laravel 11, Next.js 14, Tailwind CSS, MySQL, REST Client
+    </li>
   </ul>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🧳 <a href="https://github.com/ctrlfaith/georgia-escape">Georgia Escape – Tour Package Booking Website (Showcase)</a></h3>
-  <p>A responsive travel booking website showcasing destinations and tour packages.</p>
+  <p>Georgia Escape is a responsive travel booking website designed to showcase destinations and tour packages for Georgia tourism. The platform features multiple pages including home, tour packages, package details, blog, reservation forms, and contact information, all built with a focus on clean UI design and mobile responsiveness using Bootstrap framework.</p>
   <ul>
-    <li><strong>Tech Stack:</strong> HTML, CSS, JavaScript, Bootstrap</li>
-    <li><strong>Focus:</strong> Frontend design and layout</li>
-    <li><strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.</li>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>Multi-page layout structure</li>
+        <li>Responsive UI across devices</li>
+        <li>Tour package showcases</li>
+        <li>Booking form integration</li>
+        <li>Bootstrap grid system</li>
+        <li>Clean and modern design</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tech Stack:</strong>
+      HTML, CSS, JavaScript, Bootstrap, Google Fonts
+    </li>
+    <li>
+      <strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.
+    </li>
   </ul>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>📊 <a href="https://github.com/ctrlfaith/sales-dashboard-system">Sales Dashboard System</a></h3>
-  <p>A web-based dashboard visualizing sales data via <strong>Looker Studio</strong>.</p>
+  <p>A web-based sales management system with integrated **data visualization dashboard**. The system connects **MySQL** database through **Google Sheets** to **Looker Studio**, creating interactive **real-time dashboards** embedded via iframe. Features include sales data entry, viewing records, and comprehensive visual analytics for sales performance monitoring.</p>
   <ul>
-    <li><strong>Tech Stack:</strong> HTML, CSS, JavaScript, PHP, MySQL</li>
-    <li><strong>Focus:</strong> Data visualization and dashboard integration</li>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>Real-time dashboard integration</li>
+        <li>Looker Studio visualization</li>
+        <li>MySQL to Google Sheets sync</li>
+        <li>Interactive data analytics</li>
+        <li>Sales record management</li>
+        <li>Embedded dashboard display</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tech Stack:</strong>
+      HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, Google Sheets, Looker Studio
+    </li>
   </ul>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🪄 <a href="https://github.com/ctrlfaith/hogwarts-db">Hogwarts DB – Character Management System</a></h3>
-  <p>A CRUD app for managing Harry Potter characters.</p>
+  <p>A **CRUD web application** for managing Harry Potter character database, developed as a **Web Technology course project**. The system features a **PHP RESTful API backend** connected to a **Next.js frontend**, managing detailed character information including houses, actors, wands, blood status, and character relationships. Includes comprehensive **API testing with Postman** for all CRUD operations.</p>
   <ul>
-    <li><strong>Tech Stack:</strong> Next.js, PHP API, Postman</li>
-    <li><strong>Focus:</strong> CRUD functionality and API testing</li>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>Complete CRUD functionality</li>
+        <li>PHP RESTful API</li>
+        <li>Character database management</li>
+        <li>API testing with Postman</li>
+        <li>Detailed character profiles</li>
+        <li>Next.js frontend integration</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tech Stack:</strong>
+      Next.js, React, Tailwind CSS, PHP API, MySQL, Postman
+    </li>
   </ul>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>📱 <a href="https://github.com/ctrlfaith/mobile_management_system">Mobile Management System</a></h3>
-  <p>A Laravel-based CRUD web app for managing mobile phone data.</p>
+  <p>A **Laravel-based CRUD web application** for managing mobile phone data, developed for **Electronic Business Development coursework**. The system manages brands, operating systems, and mobile phone models with detailed specifications including CPU, RAM, and pricing. Features a clean interface built with **Blade templates, Tailwind CSS, and daisyUI** for an intuitive user experience.</p>
   <ul>
-    <li><strong>Tech Stack:</strong> Laravel, Blade Templates, Tailwind CSS, MySQL</li>
-    <li><strong>Focus:</strong> Backend logic and UI styling</li>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>Three-table relational database</li>
+        <li>Brand and OS management</li>
+        <li>Mobile specifications tracking</li>
+        <li>Blade template system</li>
+        <li>Modern UI with daisyUI</li>
+        <li>Complete CRUD operations</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tech Stack:</strong>
+      Laravel, Blade Templates, Tailwind CSS, DaisyUI, MySQL
+    </li>
   </ul>
 </div>
 
