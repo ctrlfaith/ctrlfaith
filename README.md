@@ -25,7 +25,6 @@ Currently, I am practicing with modern web technologies spanning both server-sid
 
 I prioritize thoroughness and a systematic approach in my work, focusing on small iterations and practical testing to ensure correctness at each step. I enjoy turning ideas into simple products that feel fast, stable, and easy to extend.
 
----
 
 ### 💡 Quick Info
 
