@@ -139,6 +139,34 @@ to strengthen both **development** and **testing** skills.
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <h3>💼 <a href="https://github.com/ctrlfaith/ctrlfaith-portfolio-showcase">Personal Portfolio — Portfolio Showcase Website</a></h3>
+  <p>A modern personal portfolio website built with <strong>Next.js 16</strong> and <strong>React 19</strong> to showcase personal information, technical skills, projects, and contact information. Features real-time project data fetched from <strong>GitHub API</strong>. Designed with <strong>Apple-inspired Glass Morphism</strong> design system and smooth animations using <strong>Framer Motion</strong> for an impressive user experience.</p>
+  <ul>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>Hero Section with Animated Memoji</li>
+        <li>About Section with education info</li>
+        <li>Tech Stack Section with icons</li>
+        <li>Projects Section with GitHub API</li>
+        <li>Contact Section with Copy to Clipboard</li>
+        <li>Glass Morphism Design</li>
+        <li>Fully Responsive</li>
+        <li>Smooth Animations</li>
+        <li>Smooth Navigation</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tech Stack:</strong>
+      HTML5, CSS3, JavaScript, TypeScript, Next.js 16, React 19, Tailwind CSS 4, Framer Motion, Lucide React, GitHub REST API
+    </li>
+    <li>
+      <strong>Live Demo:</strong> <a href="https://ctrlfaith-portfolio.vercel.app/">https://ctrlfaith-portfolio.vercel.app/</a>
+    </li>
+  </ul>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🎬 <a href="https://github.com/ctrlfaith/netflix-eda">Netflix Movies & TV Shows – Exploratory Data Analysis (EDA)</a></h3>
   <p>An exploratory data analysis project on Netflix's global content dataset using **Python** and **Pandas**. The analysis focuses on discovering trends in content production countries, popular genres, content growth patterns over years, and viewer rating distributions. Developed as a Data Mining coursework project to practice data analysis and visualization skills.</p>
   <ul>
