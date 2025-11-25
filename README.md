@@ -150,10 +150,11 @@ to strengthen both **development** and **testing** skills.
         <li>Tech Stack Section with icons</li>
         <li>Projects Section with GitHub API</li>
         <li>Contact Section with Copy to Clipboard</li>
+        <li>Resume Download with bilingual support (Thai/English)</li>
         <li>Glass Morphism Design</li>
         <li>Fully Responsive</li>
         <li>Smooth Animations</li>
-        <li>Smooth Navigation</li>
+        <li>Smooth Navigation with Active Indicator</li>
       </ul>
     </li>
     <li>
