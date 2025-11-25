@@ -253,7 +253,7 @@ to strengthen both **development** and **testing** skills.
       HTML, CSS, JavaScript, Bootstrap, Google Fonts
     </li>
     <li>
-      <strong>Live Demo:</strong> <a href="https://georgia-escape-demo.vercel.app/">https://georgia-escape-demo.vercel.app/</a>
+      <strong>Live Demo:</strong> <a href="https://georgia-escape.vercel.app/">https://georgia-escape.vercel.app/</a>
     </li>
     <li>
       <strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.
