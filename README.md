@@ -331,15 +331,6 @@ to strengthen both **development** and **testing** skills.
 
 ---
 
-## 📈 GitHub Languages  
-
-<div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlfaith&layout=donut&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=E6EDF3&icon_color=00BFFF&bg_color=0d1117)
-<p style="font-size:14px; color:#8b949e;">A quick overview of the main programming languages I use most often on GitHub.</p>
-</div>
-
----
-
 <div align="center">
 
 ✨ **Thanks for checking out my profile!** ✨  
