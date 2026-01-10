@@ -1,9 +1,12 @@
 <div align="center">
 
 # 👋 Hi there, I'm Phuriphatthanachai Rattanatham
-🎓 4th-year IT Student @ Rambhai Barni Rajabhat University
-🚀 **Software Engineer & QA Enthusiast**
-Building reliable web applications with a focus on code quality and testing.
+
+🎓 4th-year IT Student at Rambhai Barni Rajabhat University  
+
+💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
+
+🚀 Exploring both **Dev** and **QA** paths to become a well-rounded software engineer
 
 ![Status](https://img.shields.io/badge/Status-Ready_for_internship-brightgreen?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=for-the-badge)
