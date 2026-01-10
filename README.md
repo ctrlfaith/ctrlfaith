@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hi there, I'm Phuriphatthanachai Rattanatham
-🎓 4th-year IT Student at Rambhai Barni Rajabhat University  
-💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
-🚀 Exploring both **Dev** and **QA** paths to become a well-rounded software engineer 
+🎓 4th-year IT Student @ Rambhai Barni Rajabhat University
+🚀 **Software Engineer & QA Enthusiast**
+Building reliable web applications with a focus on code quality and testing.
 
 ![Status](https://img.shields.io/badge/Status-Ready_for_internship-brightgreen?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=for-the-badge)
@@ -35,12 +35,6 @@ I am especially interested in how **development** and **testing** work together 
 Currently, I am practicing with modern web technologies spanning both server-side and client-side development, and **RESTful APIs**, while deepening my understanding of **software testing** and **API integration**. My work reflects a full-stack mindset with a focus on correctness and clarity.
 
 I prioritize thoroughness and a systematic approach in my work, focusing on small iterations and practical testing to ensure correctness at each step. I enjoy turning ideas into simple products that feel fast, stable, and easy to extend.
-
-
-### 💡 Quick Info
-
-* 🔍 **Interested in:** Web Development · RESTful APIs · Software Testing
-* ⚙️ **I like:** coding, problem-solving, understanding how things work
 
 ---
 
