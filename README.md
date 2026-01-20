@@ -120,7 +120,7 @@ to strengthen both **development** and **testing** skills.
 <div align="left">
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🌱 <a href="https://github.com/ctrlfaith/Greenplot-Manager-Showcase">GreenPlot — Agricultural Management System (Showcase)</a></h3>
+  <h3>🌱 <a href="https://github.com/ctrlfaith/Greenplot-Manager-Showcase">GreenPlot Management System (Showcase)</a></h3>
 <div>
   <p>GreenPlot is an agricultural management system developed to help farmers efficiently record, track, analyze, and manage all essential farming activities — including garden information, plant data, planting records, cost management, buyer details, and production reports. It also features automated notifications via the LINE Messaging API to ensure that users never miss important farming tasks or schedules.</p>
 
