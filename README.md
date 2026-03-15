@@ -55,7 +55,7 @@ I prioritize thoroughness and a systematic approach in my work, focusing on smal
 Faculty of Computer Science and Information Technology  
 **Rambhai Barni Rajabhat University** (4th year, 2st semester)  
 
-🏅 **Current GPAX:** 3.91
+🏅 **Current GPAX:** 3.92
 
 During my studies, I have worked on several web-based projects  
 that have helped me develop my skills in both **Development** and **Testing**.  
