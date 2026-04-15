@@ -102,6 +102,7 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VSCode REST Client](https://img.shields.io/badge/VSCode_HTTP_Client-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
 ![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=mamp&logoColor=white)
@@ -130,23 +131,30 @@ to strengthen both **development** and **testing** skills.
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🌱 <a href="https://github.com/ctrlfaith/Greenplot-Manager-Showcase">GreenPlot Management System (Showcase)</a></h3>
 <div>
-  <p>GreenPlot is an agricultural management system developed to help farmers efficiently record, track, analyze, and manage all essential farming activities — including garden information, plant data, planting records, cost management, buyer details, and production reports. It also features automated notifications via the LINE Messaging API to ensure that users never miss important farming tasks or schedules.</p>
+  <p>GreenPlot is an agricultural management system developed as a Bachelor's Degree Research Project, designed to help farmers efficiently record, track, analyze, and manage all essential farming activities — including garden information, plant data, planting records, cost management, buyer details, and production reports. It also features automated notifications via the LINE Messaging API to ensure that users never miss important farming tasks or schedules.</p>
 
   <ul>
     <li>
       <strong>Key Features:</strong>
       <ul>
-        <li>CRUD operations</li>
-        <li>Cost and profit analysis</li>
-        <li>Scheduled reminders</li>
-        <li>Dashboard analytics</li>
+        <li>12-module CRUD operations</li>
+        <li>Three-Tier Architecture</li>
+        <li>Automated cost categorization</li>
+        <li>Dashboard analytics (P&L / ROI / Break-even)</li>
         <li>PDF report generation</li>
-        <li>LINE API integration</li>
+        <li>LINE API integration with real-time notifications</li>
       </ul>
     </li>
     <li>
       <strong>Tech Stack:</strong>
-      Laravel, PHP, HTML, CSS, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
+      Laravel, Next.js, PHP, HTML, CSS, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
+    </li>
+    <li>
+      <strong>Testing & Validation:</strong>
+      Functional Testing (14 test cases), API validation via Postman, UAT with 15 real users — satisfaction score <strong>4.64/5</strong>
+    </li>
+    <li>
+      <strong>🏆 Recognition:</strong> Selected by faculty for further development toward <strong>academic journal publication</strong> (in progress)
     </li>
     <li>
       <strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.
