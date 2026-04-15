@@ -31,14 +31,19 @@ gaining hands-on experience in Manual Testing and QA on production-grade Web App
 ---
 
 ## 👨‍💻 About Me
+I am a 4th-year IT student focused on building web applications 
+with an emphasis on code quality and system reliability.
 
-I am a 4th-year IT student focused on learning how to build web applications, prioritizing code quality and system reliability.
+I am especially interested in how **development** and **testing** 
+work together to improve quality and maintainability.
 
-I am especially interested in how **development** and **testing** work together to improve quality and maintainability.
+Currently interning as a **Software Tester** at LEXNETIX CO., LTD., 
+where I work on Manual Testing for PDPA-related Web Applications 
+across Dev and UAT environments. My background in Full-Stack Development 
+helps me understand systems from both a Developer and Tester perspective.
 
-Currently, I am practicing with modern web technologies spanning both server-side and client-side development, and **RESTful APIs**, while deepening my understanding of **software testing** and **API integration**. My work reflects a full-stack mindset with a focus on correctness and clarity.
-
-I prioritize thoroughness and a systematic approach in my work, focusing on small iterations and practical testing to ensure correctness at each step. I enjoy turning ideas into simple products that feel fast, stable, and easy to extend.
+I prioritize thoroughness and a systematic approach in my work, 
+and I enjoy turning ideas into products that feel fast, stable, and easy to extend.
 
 ---
 
