@@ -23,6 +23,7 @@ I am currently interning as a **Software Tester** at **LEXNETIX CO., LTD.** (Cha
 
 gaining hands-on experience in Manual Testing and QA on production-grade Web Applications.
 
+
 📅 Duration: March 2, 2026 – May 29, 2026 (Full-time)
 
 🎯 Role: Software Tester Intern (Manual Testing / QA)
