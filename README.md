@@ -2,11 +2,11 @@
 
 # 👋 Hi there, I'm Phuriphatthanachai Rattanatham
 
-🎓 4th-year IT Student at Rambhai Barni Rajabhat University  
+🎓 4th-year IT Student at Rambhai Barni Rajabhat University
 
 💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
 
-🚀 Exploring both **Dev** and **QA** paths to become a well-rounded software engineer
+🚀 Bridging **Dev** and **QA** to build software that is both functional and reliable
 
 ![Status](https://img.shields.io/badge/Status-Currently_Interning-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=for-the-badge)
