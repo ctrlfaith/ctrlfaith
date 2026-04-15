@@ -20,10 +20,12 @@
 
 ## 💼 Current Internship (March - May 2026)
 I am currently interning as a **Software Tester** at **LEXNETIX CO., LTD.** (Chanthaburi), 
-applying my skills in Manual Testing and QA on real-world Web Applications.
+gaining hands-on experience in Manual Testing and QA on production-grade Web Applications.
 
 📅 Duration: March 2, 2026 – May 29, 2026 (Full-time)
+
 🎯 Role: Software Tester Intern (Manual Testing / QA)
+
 📍 Location: Chanthaburi, Thailand
 
 ---
