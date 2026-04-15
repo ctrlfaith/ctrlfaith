@@ -102,6 +102,7 @@ These experiences have deepened my understanding of **Full-Stack Development** a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VSCode REST Client](https://img.shields.io/badge/VSCode_HTTP_Client-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
 ![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=mamp&logoColor=white)
 
