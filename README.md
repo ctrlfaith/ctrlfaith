@@ -8,7 +8,7 @@
 
 🚀 Exploring both **Dev** and **QA** paths to become a well-rounded software engineer
 
-![Status](https://img.shields.io/badge/Status-Ready_for_internship-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Currently_Interning-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=for-the-badge)
 
 
