@@ -18,14 +18,13 @@
 
 ---
 
-## 🚀 Internship Opportunity (March - May 2026)
-I am currently seeking an Internship opportunity for my final semester to apply my passion for software engineering and quality assurance in a professional environment.
+## 💼 Current Internship (March - May 2026)
+I am currently interning as a **Software Tester** at **LEXNETIX CO., LTD.** (Chanthaburi), 
+applying my skills in Manual Testing and QA on real-world Web Applications.
 
 📅 Duration: March 2, 2026 – May 29, 2026 (Full-time)
-
-🎯 Role Interests: Software Developer / QA Engineer (Manual & Automation)
-
-📍 Location: Chanthaburi, Rayong, Chonburi (Open to On-site or Hybrid roles)
+🎯 Role: Software Tester Intern (Manual Testing / QA)
+📍 Location: Chanthaburi, Thailand
 
 ---
 
