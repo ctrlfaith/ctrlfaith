@@ -60,7 +60,7 @@ clarity, and building things that feel fast, stable, and easy to extend.
 
 **Bachelor of Information Technology**  
 Faculty of Computer Science and Information Technology  
-**Rambhai Barni Rajabhat University** (4th year, 2st semester)  
+**Rambhai Barni Rajabhat University** (4th year, 3rd semester)  
 
 🏅 **Current GPAX:** 3.92
 
