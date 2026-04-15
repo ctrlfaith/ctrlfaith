@@ -354,7 +354,7 @@ to strengthen both **development** and **testing** skills.
 Go ahead and dive into my projects and repositories.  
 I have fun learning and creating software, and I'm always enthusiastic about learning from the community.  
 
-If you're searching for a motivated intern or want to talk tech,  
+If you're looking for a motivated developer/tester or want to talk tech,  
 I'd love to hear from you!  
 
 </div>
