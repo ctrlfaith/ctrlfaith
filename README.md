@@ -163,6 +163,27 @@ to strengthen both **development** and **testing** skills.
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <h3>🧪 <a href="https://github.com/ctrlfaith/qa-portfolio-api-testing">QA Portfolio — Restful Booker API Testing</a></h3>
+  <p>An API test collection for <strong>Restful Booker</strong> built with <strong>Postman</strong> as part of a QA portfolio project. The collection covers complete CRUD operations, edge cases, and security testing — with <strong>5 real bugs discovered</strong> including XSS vulnerability and missing input validation.</p>
+  <ul>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>Full CRUD coverage: GET, POST, PUT, DELETE</li>
+        <li>Authentication flow with token management</li>
+        <li>9 Edge Cases including SQL Injection and XSS</li>
+        <li>5 bugs found with severity classification</li>
+        <li>pm.test() assertions with auto-saved environment variables</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tools:</strong>
+      Postman, JavaScript (pm.test assertions), Git, GitHub
+    </li>
+  </ul>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>💼 <a href="https://github.com/ctrlfaith/ctrlfaith-portfolio-showcase">Personal Portfolio — Portfolio Showcase Website</a></h3>
   <p>A modern personal portfolio website built with <strong>Next.js 16</strong> and <strong>React 19</strong> to showcase personal information, technical skills, projects, and contact information. Features real-time project data fetched from <strong>GitHub API</strong>. Designed with <strong>Apple-inspired Glass Morphism</strong> design system and smooth animations using <strong>Framer Motion</strong> for an impressive user experience.</p>
   <ul>
