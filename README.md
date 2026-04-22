@@ -180,6 +180,10 @@ to strengthen both **development** and **testing** skills.
       <strong>Tools:</strong>
       Postman, JavaScript (pm.test assertions), Git, GitHub
     </li>
+    <li>
+      <strong>Live Summary:</strong>
+      <a href="https://ctrlfaith.github.io/qa-portfolio-api-testing/">View Project Summary</a>
+    </li>
   </ul>
 </div>
 
