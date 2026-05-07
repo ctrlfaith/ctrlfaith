@@ -163,6 +163,27 @@ to strengthen both **development** and **testing** skills.
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <h3>🤖 <a href="https://github.com/ctrlfaith/qa-portfolio-automation">QA Portfolio — Swag Labs Automation Testing (Playwright)</a></h3>
+  <p>An automation test suite for <strong>Swag Labs (saucedemo.com)</strong> built with <strong>Playwright + JavaScript</strong> as a continuation of the Manual Testing project — covering Login, Cart, Checkout, and Sorting across multiple user types, with <strong>5 known bugs documented</strong> through intentionally failing tests.</p>
+  <ul>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>18 test cases across Login, Cart, Checkout, Sorting (54 runs across 3 browsers)</li>
+        <li>Multiple user types tested: standard, locked_out, problem, error, visual, performance_glitch</li>
+        <li>Known bugs documented as intentional failing tests with BUG comments</li>
+        <li>CI/CD pipeline via GitHub Actions — auto-runs on every push</li>
+        <li>HTML report with screenshot and trace on failure</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tools:</strong>
+      Playwright, JavaScript, GitHub Actions, Git, GitHub
+    </li>
+  </ul>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🧪 <a href="https://github.com/ctrlfaith/qa-portfolio-manual-testing">QA Portfolio — Swag Labs Manual Testing</a></h3>
   <p>A complete manual testing project for <strong>Swag Labs (saucedemo.com)</strong> covering all features across <strong>6 user types</strong> — with <strong>25 bugs discovered</strong> including critical link mapping failures, broken checkout flows, and dynamic price inconsistencies.</p>
   <ul>
