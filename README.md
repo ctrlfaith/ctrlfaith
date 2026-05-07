@@ -164,14 +164,14 @@ to strengthen both **development** and **testing** skills.
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🧪 <a href="https://github.com/ctrlfaith/qa-portfolio-manual-testing">QA Portfolio — Swag Labs Manual Testing</a></h3>
-  <p>A complete manual testing project for <strong>Swag Labs (saucedemo.com)</strong> covering all features across <strong>6 user types</strong> — with <strong>24 bugs discovered</strong> including critical link mapping failures, broken checkout flows, and dynamic price inconsistencies.</p>
+  <p>A complete manual testing project for <strong>Swag Labs (saucedemo.com)</strong> covering all features across <strong>6 user types</strong> — with <strong>25 bugs discovered</strong> including critical link mapping failures, broken checkout flows, and dynamic price inconsistencies.</p>
   <ul>
     <li>
       <strong>Key Features:</strong>
       <ul>
-        <li>~120 Test Cases across Login, Product List, Product Detail, Cart, Checkout, Logout</li>
+        <li>~129 Test Cases across Login, Product List, Product Detail, Cart, Checkout, Logout</li>
         <li>6 user types tested: standard, locked_out, problem, performance_glitch, error, visual</li>
-        <li>24 bugs found — 6 Critical, 9 High, 5 Medium, 4 Low</li>
+        <li>25 bugs found — 6 Critical, 10 High, 5 Medium, 4 Low</li>
         <li>Test types: Happy Path, Negative, Edge Case, Security, Performance, Visual</li>
         <li>Performance measured via Chrome DevTools (LCP, INP)</li>
       </ul>
