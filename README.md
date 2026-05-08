@@ -2,8 +2,6 @@
 
 # 👋 Hi there, I'm Phuriphatthanachai Rattanatham
 
-🎓 4th-year IT Student at Rambhai Barni Rajabhat University
-
 💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
 
 🚀 Bridging **Dev** and **QA** to build software that is both functional and reliable
@@ -52,10 +50,6 @@ Faculty of Computer Science and Information Technology
 **Rambhai Barni Rajabhat University** (4th year, 3rd semester)  
 
 🏅 **Current GPAX:** 3.92
-
-During my studies, I have worked on several web-based projects  
-that have helped me develop my skills in both **Development** and **Testing**.  
-These experiences have deepened my understanding of **Full-Stack Development** and **software quality**.  
 
 ---
 
