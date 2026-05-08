@@ -31,23 +31,6 @@ working within an **Agile/Scrum** workflow with Daily Standups and cross-functio
 
 ---
 
-## 👨‍💻 About Me
-I am a 4th-year IT student focused on building web applications 
-with an emphasis on code quality and system reliability.
-
-I am especially interested in how **development** and **testing** 
-work together to improve quality and maintainability.
-
-Currently interning as a **Software Tester** at **LEXNETIX CO., LTD.**, 
-gaining hands-on experience in Manual Testing and QA on PDPA-related Web Applications 
-across Dev and UAT environments.
-
-My background in **Full-Stack Development** helps me understand systems 
-from both a Developer and Tester perspective — focusing on correctness, 
-clarity, and building things that feel fast, stable, and easy to extend.
-
----
-
 ## 📬 Contact Me  
 
 📇 **LinkedIn:** [linkedin.com/in/phuriphatthanachai-rattanatham-3b0ba4375](https://www.linkedin.com/in/phuriphatthanachai-rattanatham-3b0ba4375)  
