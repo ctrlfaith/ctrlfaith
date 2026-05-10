@@ -146,6 +146,27 @@ to strengthen both **development** and **testing** skills.
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <h3>🔥 <a href="https://github.com/ctrlfaith/jmeter-performance-testing">Performance Testing — REST API with Apache JMeter</a></h3>
+  <p>A performance test suite for <strong>JSONPlaceholder REST API</strong> built with <strong>Apache JMeter 5.6.3</strong> — simulating concurrent users across 4 scenarios (50–500 users) to measure Response Time, Throughput, and Error Rate, with <strong>zero errors across all 4,250 requests</strong>.</p>
+  <ul>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>4 test scenarios: Load Test (50 users) and Stress Test (100, 200, 500 users)</li>
+        <li>Total 4,250 requests executed with 0.00% error rate across all scenarios</li>
+        <li>Average response time remained stable at 75–103ms despite 10x load increase</li>
+        <li>HTML Dashboard Report generated per scenario via JMeter CLI</li>
+        <li>Raw results stored as .jtl files for reproducibility</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tools:</strong>
+      Apache JMeter, Java, Git, GitHub
+    </li>
+  </ul>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🤖 <a href="https://github.com/ctrlfaith/qa-portfolio-automation">QA Portfolio — Swag Labs Automation Testing (Playwright)</a></h3>
   <p>An automation test suite for <strong>Swag Labs (saucedemo.com)</strong> built with <strong>Playwright + JavaScript</strong> as a continuation of the Manual Testing project — covering Login, Cart, Checkout, and Sorting across multiple user types, with <strong>5 known bugs documented</strong> through intentionally failing tests.</p>
   <ul>
