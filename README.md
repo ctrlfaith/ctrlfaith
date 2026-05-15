@@ -150,6 +150,28 @@ to strengthen both **development** and **testing** skills.
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <h3>🎭 <a href="https://github.com/ctrlfaith/reqres-api-testing">API Testing — Reqres with Playwright</a></h3>
+  <p>An API automation test project for <strong>Reqres</strong> built with <strong>Playwright</strong> — covering CREATE, SINGLE USER, UPDATE, and DELETE operations. Validates both response status and response result for each scenario, running automatically via <strong>GitHub Actions CI/CD</strong>.</p>
+  <ul>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>12 test cases across CREATE, SINGLE USER, UPDATE, and DELETE</li>
+        <li>Centralized test data via <code>config/user.config.js</code> — no hardcoded values</li>
+        <li>Global HTTP headers and baseURL configured in <code>playwright.config.js</code></li>
+        <li>CI/CD pipeline via GitHub Actions — auto-runs on every push</li>
+        <li>HTML report auto-generated at <code>playwright-report/</code> per run</li>
+        <li>Edge case coverage: non-existing user (404) and mock DELETE behavior noted</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tools:</strong>
+      Playwright, JavaScript, Node.js, GitHub Actions
+    </li>
+  </ul>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>📋 <a href="https://github.com/ctrlfaith/qa-assignment-manual-test-cases">QA Assignment — Manual Test Cases</a></h3>
   <p>Manual test case design for <strong>2 hypothetical systems</strong> based on given requirements — covering Happy Path, Negative, and Edge Cases with <strong>76 test cases in total</strong>. Demonstrates the ability to analyze requirements and design structured test cases without access to a real system.</p>
   <ul>
