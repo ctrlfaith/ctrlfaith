@@ -150,6 +150,26 @@ to strengthen both **development** and **testing** skills.
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <h3>📋 <a href="https://github.com/ctrlfaith/qa-assignment-manual-test-cases">QA Assignment — Manual Test Cases</a></h3>
+  <p>Manual test case design for <strong>2 hypothetical systems</strong> based on given requirements — covering Happy Path, Negative, and Edge Cases with <strong>76 test cases in total</strong>. Demonstrates the ability to analyze requirements and design structured test cases without access to a real system.</p>
+  <ul>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>76 test cases across 2 systems — Clock-in / Clock-out and Employee Hotel Booking</li>
+        <li>Covers Happy Path, Negative, and Edge Cases including race conditions and session handling</li>
+        <li>Structured with Suite grouping, Pre-Condition, Test Steps, Expected Result, and Priority</li>
+        <li>Test cases documented in Google Sheets</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tools:</strong>
+      Google Sheets, Git, GitHub
+    </li>
+  </ul>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🤖 <a href="https://github.com/ctrlfaith/robot-framework-api-testing">API Testing — Restful Booker with Robot Framework</a></h3>
   <p>An API test suite for <strong>Restful Booker</strong> built with <strong>Robot Framework 7.4.2</strong> — a continuation of the Postman project, rebuilt to demonstrate how the same coverage can be achieved with a code-based framework. Covers full CRUD, edge cases, and security testing with <strong>5 real bugs discovered</strong>, running automatically via <strong>GitHub Actions CI/CD</strong>.</p>
   <ul>
