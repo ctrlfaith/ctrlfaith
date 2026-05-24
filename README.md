@@ -16,22 +16,21 @@
 
 ---
 
-## 💼 Current Internship (March - May 2026)
+## 💼 Software Tester Internship Experience
 
-I am currently interning as a **Software Tester** at **LEXNETIX CO., LTD.** (Chanthaburi),
-performing Manual Testing on a production-level Web Application related to **PDPA law**,
-across **Dev and UAT environments**, working within an **Agile/Scrum** workflow
-with cross-functional team collaboration.
+Worked as a **Software Tester Intern** at **LEXNETIX CO., LTD.**, performing Manual Testing for a production-level Web Application related to **PDPA compliance**, across **Dev** and **UAT** environments within an **Agile/Scrum workflow**.
 
-📅 Duration: March 2, 2026 – May 29, 2026 (Full-time)
-🎯 Role: Software Tester Intern (Manual Testing / QA)
-📍 Location: Chanthaburi, Thailand
+📅 March 2, 2026 – May 29, 2026  
+🎯 Role: Software Tester Intern (Manual QA)  
+📍 Chanthaburi, Thailand
 
 **Highlights:**
-- Designed 1,200+ Test Cases covering multiple modules with Positive, Negative, and Edge Cases
-- Tested across 4 User Roles (DPO, Advisory, Admin, User) to verify Permission and Functional Flow
-- Reported bugs via ClickUp and independently performed Retesting after fixes
-- Coordinated with Developers and UX/UI team on Bug Report findings
+
+- Designed and maintained **1,200+ Test Cases** across multiple modules covering Positive, Negative, and Edge Cases
+- Performed Requirement Analysis and translated business requirements into structured Test Scenarios and Test Cases
+- Validated functional flows and permission behavior across **4 user roles** (DPO, Advisory, Admin, User)
+- Reported defects using **ClickUp**, collaborated with Developers and UX/UI teams, and performed Retesting after fixes
+- Conducted end-to-end Manual Testing across Dev and UAT environments to verify feature quality before release
 
 ---
 
@@ -145,6 +144,27 @@ to strengthen both **development** and **testing** skills.
     </li>
     <li>
       <strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.
+    </li>
+  </ul>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+  <h3>🧪 <a href="https://github.com/ctrlfaith/requirement-based-test-design">Requirement-based Test Design & Analysis</a></h3>
+  <p>A manual test design project based on <strong>UI mockups</strong>, <strong>Requirement Specifications</strong>, and <strong>Business Rules</strong> — covering structured test scenario and test case design using requirement-based testing techniques.</p>
+  <ul>
+    <li>
+      <strong>Key Features:</strong>
+      <ul>
+        <li>Analyzed UI and requirements for <strong>Reward Management</strong> system (Question 1)</li>
+        <li>Designed boundary test cases for <strong>Interest Rate Calculator</strong> (Question 2)</li>
+        <li>Applied <strong>Boundary Value Analysis (BVA)</strong> and <strong>Equivalence Partitioning (EP)</strong></li>
+        <li>Covered Positive, Negative, and Edge Cases for full test coverage</li>
+        <li>Test cases documented in <strong>Google Sheets</strong> with structured format</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tools:</strong>
+      Google Sheets, Boundary Value Analysis (BVA), Equivalence Partitioning (EP)
     </li>
   </ul>
 </div>
