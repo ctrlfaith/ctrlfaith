@@ -149,27 +149,6 @@ to strengthen both **development** and **testing** skills.
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🧪 <a href="https://github.com/ctrlfaith/requirement-based-test-design">Requirement-based Test Design & Analysis</a></h3>
-  <p>A manual test design project based on <strong>UI mockups</strong>, <strong>Requirement Specifications</strong>, and <strong>Business Rules</strong> — covering structured test scenario and test case design using requirement-based testing techniques.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>Analyzed UI and requirements for <strong>Reward Management</strong> system (Question 1)</li>
-        <li>Designed boundary test cases for <strong>Interest Rate Calculator</strong> (Question 2)</li>
-        <li>Applied <strong>Boundary Value Analysis (BVA)</strong> and <strong>Equivalence Partitioning (EP)</strong></li>
-        <li>Covered Positive, Negative, and Edge Cases for full test coverage</li>
-        <li>Test cases documented in <strong>Google Sheets</strong> with structured format</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tools:</strong>
-      Google Sheets, Boundary Value Analysis (BVA), Equivalence Partitioning (EP)
-    </li>
-  </ul>
-</div>
-
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🎭 <a href="https://github.com/ctrlfaith/reqres-api-testing">API Testing — Reqres with Playwright</a></h3>
   <p>An API automation test project for <strong>Reqres</strong> built with <strong>Playwright</strong> — covering CREATE, SINGLE USER, UPDATE, and DELETE operations. Validates both response status and response result for each scenario, running automatically via <strong>GitHub Actions CI/CD</strong>.</p>
   <ul>
