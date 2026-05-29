@@ -152,11 +152,11 @@ A complete manual testing project for **Swag Labs (saucedemo.com)** covering all
 
 ### 🤖 [QA Portfolio — Swag Labs Automation Testing (Playwright)](https://github.com/ctrlfaith/qa-portfolio-automation)
 
-Continuation of the Manual Testing project above — rebuilt with **Playwright + JavaScript**, covering Login, Cart, Checkout, and Sorting across multiple user types with **5 known bugs documented** through intentionally failing tests.
+Continuation of the Manual Testing project above — rebuilt with **Playwright + JavaScript**, covering Login, Cart, Checkout, and Sorting across multiple user types. **5 known bugs documented** through intentionally failing tests across 3 browsers.
 
-- 18 test cases across 4 modules (54 runs across 3 browsers)
-- Known bugs documented as intentional failing tests with BUG comments
-- CI/CD pipeline via GitHub Actions — auto-runs on every push
+- 18 test cases × 3 browsers (Chromium, Firefox, WebKit) = 54 runs — Passed 39 / Failed 15 (known bugs)
+- Known bugs: case-sensitive login, Sort dropdown failure (problem_user), Sort error popup (error_user), incorrect price ordering (visual_user), wrong product image (visual_user)
+- CI/CD pipeline via GitHub Actions — auto-runs on every push and PR
 - HTML report with screenshot and trace on failure
 
 **Tools:** Playwright, JavaScript, GitHub Actions, Git, GitHub
@@ -165,12 +165,12 @@ Continuation of the Manual Testing project above — rebuilt with **Playwright +
 
 ### 🧪 [QA Portfolio — Restful Booker API Testing (Postman)](https://github.com/ctrlfaith/qa-portfolio-api-testing)
 
-An API test collection for **Restful Booker** built with **Postman** — covering full CRUD, edge cases, and security testing with **5 real bugs discovered** including XSS vulnerability and missing input validation.
+An API test collection for **Restful Booker** built with **Postman** — covering full CRUD, authentication flow, and security testing with **5 real bugs discovered**.
 
-- Full CRUD coverage: GET, POST, PUT, DELETE
-- Authentication flow with token management
-- 9 edge cases including SQL Injection and XSS
-- pm.test() assertions with auto-saved environment variables
+- Full CRUD coverage: GET, POST, PUT, DELETE with authentication token management
+- 9 edge cases including Invalid Date, Negative Price, SQL Injection, XSS Injection, and Checkout Before Checkin
+- 5 bugs found — 2 Critical (accepts negative price, stores raw XSS script tag), 3 High (missing field validation, invalid date accepted, impossible date range accepted)
+- pm.test() assertions on every request
 
 **Tools:** Postman, JavaScript (pm.test), Git, GitHub
 
@@ -182,22 +182,25 @@ An API test collection for **Restful Booker** built with **Postman** — coverin
 
 Continuation of the Postman project above — rebuilt with **Robot Framework 7.4.2** to demonstrate how the same coverage can be achieved with a code-based framework. **5 real bugs discovered**, running automatically via **GitHub Actions CI/CD**.
 
-- 22 test cases across Authentication, CRUD, Edge Cases, and Security
-- Keyword-driven architecture with reusable `.resource` files
-- 5 bugs found including XSS vulnerability and missing input validation
+- 22 test cases across Authentication, CRUD (including PATCH), Edge Cases, and Security
+- Keyword-driven architecture with reusable `.resource` files (RequestsLibrary, Collections Library)
+- 5 bugs found — 2 Critical (accepts negative price, stores raw XSS script tag), 3 High (missing field validation, invalid date accepted, impossible date range accepted)
+- CI/CD pipeline via GitHub Actions — auto-runs on every push
 - Postman vs Robot Framework comparison documented in README
 
-**Tools:** Robot Framework, Python, RequestsLibrary, GitHub Actions, Git, GitHub
+**Tools:** Robot Framework 7.4.2, Python, RequestsLibrary, GitHub Actions, Git, GitHub
 
 ---
 
 ### 🎭 [API Testing — Reqres with Playwright](https://github.com/ctrlfaith/reqres-api-testing)
 
-An API automation test project for **Reqres** built with **Playwright** — covering CREATE, SINGLE USER, UPDATE, and DELETE operations, running automatically via **GitHub Actions CI/CD**.
+An API automation test project for **Reqres** built with **Playwright** — covering CREATE, SINGLE USER, UPDATE, and DELETE operations, validating both response status and response result for each scenario.
 
-- 12 test cases across CREATE, SINGLE USER, UPDATE, and DELETE
+- 12 test cases across 4 endpoints — all passing
 - Centralized test data via `config/user.config.js` — no hardcoded values
-- Edge case coverage: non-existing user (404) and mock DELETE behavior
+- Global HTTP headers and baseURL configured in `playwright.config.js`
+- CI/CD pipeline via GitHub Actions — auto-runs on every push
+- Edge case: non-existing user (404) and mock DELETE behavior documented (Reqres returns `204` regardless of resource existence)
 
 **Tools:** Playwright, JavaScript, Node.js, GitHub Actions
 
@@ -205,13 +208,13 @@ An API automation test project for **Reqres** built with **Playwright** — cove
 
 ### 🔥 [Performance Testing — REST API with Apache JMeter](https://github.com/ctrlfaith/jmeter-performance-testing)
 
-A performance test suite for **JSONPlaceholder REST API** built with **Apache JMeter 5.6.3** — simulating concurrent users across 4 scenarios (50–500 users) with **zero errors across all 4,250 requests**.
+A performance test suite for **JSONPlaceholder REST API** (`GET /users`) built with **Apache JMeter 5.6.3** — simulating concurrent users across 4 scenarios (50–500 users) with **zero errors across all 4,250 requests**.
 
-- 4 scenarios: Load Test (50 users) and Stress Test (100, 200, 500 users)
-- Average response time stable at 75–103ms despite 10x load increase
-- HTML Dashboard Report generated per scenario via JMeter CLI
+- 4 scenarios run separately for accuracy: Load Test (50 users) and Stress Test (100, 200, 500 users)
+- Average response time stable at 75–103ms despite 10x load increase; max response time rose to 2,369ms at 500 users — indicating approaching API limit with no errors
+- HTML Dashboard Report generated per scenario via JMeter CLI; raw results stored as .jtl files
 
-**Tools:** Apache JMeter, Java, Git, GitHub
+**Tools:** Apache JMeter 5.6.3, Java, Git, GitHub
 
 ---
 
@@ -219,8 +222,8 @@ A performance test suite for **JSONPlaceholder REST API** built with **Apache JM
 
 Manual test case design for **2 hypothetical systems** based on given requirements — demonstrating the ability to analyze requirements and design structured test cases without access to a real system.
 
-- 76 test cases across Clock-in/Clock-out and Employee Hotel Booking systems
-- Covers Happy Path, Negative, and Edge Cases including race conditions and session handling
+- 76 test cases across Clock-in/Clock-out (33 TCs) and Employee Hotel Booking (43 TCs)
+- Coverage breakdown: 24 Happy Path, 33 Negative, 19 Edge Cases
 - Structured with Suite grouping, Pre-Condition, Test Steps, Expected Result, and Priority
 
 **Tools:** Google Sheets, Git, GitHub
@@ -231,11 +234,11 @@ Manual test case design for **2 hypothetical systems** based on given requiremen
 
 ### 💼 [Personal Portfolio — Portfolio Showcase Website](https://github.com/ctrlfaith/ctrlfaith-portfolio-showcase)
 
-A modern personal portfolio website built with **Next.js 16** and **React 19** — featuring real-time project data from the **GitHub API**, Apple-inspired Glass Morphism design, and smooth animations via **Framer Motion**.
+A modern personal portfolio website built with **Next.js 16**, **React 19**, and **TypeScript** — featuring real-time project data from the **GitHub API**, Apple-inspired Glass Morphism design, and smooth animations via **Framer Motion**. Deployed on Vercel.
 
-- Hero Section with Animated Memoji, Tech Stack, Projects, and Contact sections
-- Resume Download with bilingual support (Thai/English)
-- Fully responsive with smooth navigation and active indicator
+- Hero Section with Animated Memoji, About, Tech Stack, Projects, and Contact sections
+- Resume Download with animated bilingual dropdown (Thai/English)
+- Fully responsive with smooth navigation and active section indicator
 
 **Tech Stack:** TypeScript, Next.js 16, React 19, Tailwind CSS 4, Framer Motion, Lucide React, GitHub REST API
 
@@ -245,10 +248,11 @@ A modern personal portfolio website built with **Next.js 16** and **React 19** �
 
 ### 🎤 [Idol Management System](https://github.com/ctrlfaith/Idol-Management-System)
 
-A full-stack web application for managing idols and bands with **complete CRUD functionality** — featuring a **Laravel RESTful API backend** connected to a **Next.js frontend**. Developed as a Web Service Technology midterm project.
+A full-stack web application for managing idols and bands — featuring a **Laravel 11 RESTful API backend** connected to a **Next.js 14 frontend**. Developed as a Web Service Technology midterm project.
 
-- One-to-Many relationships between bands and idols
-- Manages stage names, profiles, social media, debut years, and agency info
+- One-to-Many relationship between Bands and Idols via Foreign Key
+- Idols table with 22 fields including bilingual names (EN/TH), physical info, debut info, and social media links (Instagram, TikTok, Twitter, Official Site)
+- Full CRUD tested via VS Code REST Client (`.http` files) for both Bands and Idols APIs
 
 **Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL
 
@@ -256,15 +260,21 @@ A full-stack web application for managing idols and bands with **complete CRUD f
 
 ### 🧩 [CSIT CRUD — Tasks Management API](https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL)
 
-A full-stack task management system with **Laravel RESTful API** and **Next.js frontend**, featuring CRUD operations with title, description, status, priority, and due dates. Includes API testing via **REST Client (.http)** in VS Code.
+A full-stack task management system with **Laravel 11 RESTful API** and **Next.js 14 frontend** — featuring CRUD operations with title, description, status (todo/doing/done), priority, due date, and user association via `user_id` FK. API response includes pagination metadata. Developed for Web Service Technology coursework.
 
-**Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, MySQL, REST Client
+- Full CRUD tested via both web UI and VS Code REST Client (`.http` files)
+- API endpoints: GET all, GET by ID, POST, PUT, DELETE
+
+**Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL, REST Client
 
 ---
 
 ### 🪄 [Hogwarts DB — Character Management System](https://github.com/ctrlfaith/hogwarts-db)
 
-A CRUD web application for managing a Harry Potter character database — featuring a **PHP RESTful API backend** with **Next.js frontend**, managing houses, actors, wands, blood status, and character relationships. Includes API testing with Postman.
+A CRUD web application for managing a Harry Potter character database — featuring a **PHP RESTful API backend** with **Next.js frontend**. Developed for Web Technology coursework.
+
+- Character table with 16 fields including House, ActorName, WandType, BloodStatus, RoleType, Species, Skills, and appearance history
+- Full CRUD tested via Postman for all endpoints (GET, POST, PUT, DELETE)
 
 **Tech Stack:** Next.js, React, Tailwind CSS, PHP API, MySQL, Postman
 
@@ -272,7 +282,7 @@ A CRUD web application for managing a Harry Potter character database — featur
 
 ### 📱 [Mobile Management System](https://github.com/ctrlfaith/mobile_management_system)
 
-A **Laravel-based CRUD web application** for managing mobile phone data — brands, operating systems, and models with specifications including CPU, RAM, and pricing. Developed for Electronic Business Development coursework.
+A **Laravel-based CRUD web application** for managing mobile phone data — using 3 relational tables (`brands`, `operating_systems`, `mobile_phones`) with mobile specs including CPU, RAM, and pricing linked to brand and OS via Foreign Keys. Developed for Electronic Business Development coursework.
 
 **Tech Stack:** Laravel, Blade Templates, Tailwind CSS, DaisyUI, MySQL
 
@@ -280,17 +290,20 @@ A **Laravel-based CRUD web application** for managing mobile phone data — bran
 
 ### 📊 [Sales Dashboard System](https://github.com/ctrlfaith/sales-dashboard-system)
 
-A web-based sales management system connecting **MySQL** through **Google Sheets** to **Looker Studio** — creating interactive real-time dashboards embedded via iframe for sales performance monitoring.
+A self-learning project for managing sales data — connecting **MySQL** through **Google Sheets** to **Looker Studio**, with the interactive dashboard embedded via iframe. Built with procedural PHP (no framework).
 
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, Google Sheets, Looker Studio
+- Sales data entry, viewing records, and real-time dashboard visualization
+- Data pipeline: phpMyAdmin → Google Sheets → Looker Studio embed
+
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP (Procedural), MySQL, Google Sheets, Looker Studio
 
 ---
 
 ### 🧳 [Georgia Escape — Tour Package Booking Website (Showcase)](https://github.com/ctrlfaith/georgia-escape-demo)
 
-A responsive travel booking website showcasing destinations and tour packages for Georgia tourism — featuring multi-page layout, booking forms, and clean UI built with Bootstrap.
+A frontend practice project — a responsive travel booking website for Georgia tourism featuring 9 pages: Homepage, Package Listing, Tour Details (Tbilisi, Highland, Wine), Blog, Reservation Form, About, and Contact. Deployed on Vercel.
 
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Google Fonts
+**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap 5, Google Fonts, Font Awesome
 
 **Live Demo:** [georgia-escape.vercel.app](https://georgia-escape.vercel.app/)
 
@@ -300,9 +313,14 @@ A responsive travel booking website showcasing destinations and tour packages fo
 
 ### 🎬 [Netflix Movies & TV Shows — Exploratory Data Analysis (EDA)](https://github.com/ctrlfaith/netflix-eda)
 
-An EDA project on Netflix's global content dataset — discovering trends in content production countries, popular genres, growth patterns over years, and rating distributions. Developed as a Data Mining coursework project.
+An EDA project on Netflix's global content dataset using **Python** — discovering trends in content production, genres, and platform growth. Developed as a Data Mining coursework project via Kaggle Notebook.
+
+- Key findings: Movies outnumber TV Shows significantly; top producing countries are US, India, and UK; content growth accelerated post-2015; Drama and Comedy are the most common genres; TV-MA and TV-14 are the dominant ratings
+- Data cleaning, statistical analysis, and visualization with Matplotlib
 
 **Tech Stack:** Python, Pandas, Matplotlib, NumPy, Kaggle Notebook
+
+**Kaggle Notebook:** [View Full Analysis](https://www.kaggle.com/code/phuriphattnc/netflix-eda-1014-phuriphatthanachai)
 
 ---
 
