@@ -116,34 +116,46 @@ to strengthen both **development** and **testing** skills.
 
 <div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
   <h3>🌱 <a href="https://github.com/ctrlfaith/Greenplot-Manager-Showcase">GreenPlot Management System (Showcase)</a></h3>
+
 <div>
-  <p>GreenPlot is an agricultural management system developed as a Bachelor's Degree Research Project, designed to help farmers efficiently record, track, analyze, and manage all essential farming activities — including garden information, plant data, planting records, cost management, buyer details, and production reports. It also features automated notifications via the LINE Messaging API to ensure that users never miss important farming tasks or schedules.</p>
+  <p>
+    GreenPlot is a full-stack web-based agricultural management system developed as a Bachelor's Degree Research Project. The system was designed and implemented by a sole developer following the SDLC (Waterfall) process, covering requirement analysis, database design, backend development, and system testing.
+  </p>
+
+  <p>
+    The system manages farming operations including planting records, cost tracking, yield management, buyer information, and production reporting. It also integrates the LINE Messaging API for automated real-time notifications on farming activities and payment status updates.
+  </p>
 
   <ul>
     <li>
-      <strong>Key Features:</strong>
+      <strong>Architecture & Engineering:</strong>
       <ul>
-        <li>12-module CRUD operations</li>
-        <li>Three-Tier Architecture</li>
-        <li>Automated cost categorization</li>
-        <li>Dashboard analytics (P&L / ROI / Break-even)</li>
-        <li>PDF report generation</li>
-        <li>LINE API integration with real-time notifications</li>
+        <li>12-module CRUD system under Three-Tier Architecture</li>
+        <li>User-scoped authorization on every request</li>
+        <li>Service Layer pattern implementation for business logic separation</li>
+        <li>Dashboard analytics for P&amp;L, ROI, and Break-even analysis</li>
+        <li>PDF report generation via Laravel DomPDF</li>
       </ul>
     </li>
+
     <li>
       <strong>Tech Stack:</strong>
       Laravel, Blade Templates, PHP, HTML, CSS, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
     </li>
+
     <li>
-      <strong>Testing & Validation:</strong>
-      Functional Testing (14 test cases), API validation via Postman, UAT with 15 real users — satisfaction score <strong>4.64/5</strong>
+      <strong>Testing &amp; Validation:</strong>
+      Functional Testing (14 test cases), API validation using Postman, and UAT with 15 real users achieving a satisfaction score of <strong>4.64/5</strong>
     </li>
+
     <li>
-      <strong>🏆 Recognition:</strong> Selected by faculty for further development toward <strong>academic journal publication</strong> (in progress)
+      <strong>🏆 Recognition:</strong>
+      Selected by faculty for further development toward <strong>academic journal publication</strong> (in progress)
     </li>
+
     <li>
-      <strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.
+      <strong>Note:</strong>
+      This repository is a <em>Showcase Version</em> created for portfolio and demonstration purposes only.
     </li>
   </ul>
 </div>
