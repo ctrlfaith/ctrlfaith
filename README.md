@@ -3,12 +3,10 @@
 # 👋 Hi there, I'm Phuriphatthanachai Rattanatham
 
 💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
-
 🚀 Bridging **Dev** and **QA** to build software that is both functional and reliable
 
-![Status](https://img.shields.io/badge/Status-Currently_Interning-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Fresh_Graduate-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=for-the-badge)
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Web+Development+%7C+API+Development+%7C+Software+Testing;Always+learning+and+building+better+software!)](https://git.io/typing-svg)
 
@@ -18,7 +16,7 @@
 
 ## 💼 Software Tester Internship Experience
 
-Worked as a **Software Tester Intern** at **LEXNETIX CO., LTD.**, performing Manual Testing for a production-level Web Application related to **PDPA compliance**, across **Dev** and **UAT** environments within an **Agile/Scrum workflow**.
+Worked as a **Software Tester Intern** at **LEXNETIX CO., LTD.**, performing Manual Testing on a production-level **PDPA Web Application** across Dev, UAT, and remote customer environments within an **Agile/Scrum workflow**.
 
 📅 March 2, 2026 – May 29, 2026  
 🎯 Role: Software Tester Intern (Manual QA)  
@@ -26,15 +24,12 @@ Worked as a **Software Tester Intern** at **LEXNETIX CO., LTD.**, performing Man
 
 **Highlights:**
 
-- Designed and maintained **1,200+ Test Cases** across multiple modules covering Positive, Negative, and Edge Cases
-- Performed Requirement Analysis and translated business requirements into structured Test Scenarios and Test Cases
+- Designed **1,200+ Test Cases** in Google Sheets covering Positive, Negative, and Edge Cases across System Settings and DPA/DSA modules, based on UX/UI designs and live system behavior
 - Validated functional flows and permission behavior across **4 user roles** (DPO, Advisory, Admin, User)
-- Reported defects using **ClickUp**, collaborated with Developers and UX/UI teams, and performed Retesting after fixes
-- Conducted end-to-end Manual Testing across Dev and UAT environments to verify feature quality before release
+- Conducted Functional Testing across core modules including **ROPA, Consent, DSAR, Incident, and System Settings**, as well as newly introduced features across different system versions
+- Reported bugs via **ClickUp**, performed retesting for personal and team-reported issues, and collaborated with Developers and UX/UI teams within Agile/Sprint workflows
 
----
-
-## 📬 Contact Me  
+## 📬 Contact Me
 
 📇 **LinkedIn:** [linkedin.com/in/phuriphatthanachai-rattanatham-3b0ba4375](https://www.linkedin.com/in/phuriphatthanachai-rattanatham-3b0ba4375)  
 💻 **GitHub:** [github.com/ctrlfaith](https://github.com/ctrlfaith)  
@@ -42,13 +37,13 @@ Worked as a **Software Tester Intern** at **LEXNETIX CO., LTD.**, performing Man
 
 ---
 
-## 🎓 Education  
+## 🎓 Education
 
 **Bachelor of Information Technology**  
 Faculty of Computer Science and Information Technology  
-**Rambhai Barni Rajabhat University** (4th year, 3rd semester)  
+**Rambhai Barni Rajabhat University** — Fresh Graduate
 
-🏅 **Current GPAX:** 3.92
+🏅 **GPAX:** 3.92
 
 ---
 
@@ -80,12 +75,15 @@ Faculty of Computer Science and Information Technology
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🧪 Testing & Tools  
+### 🧪 Testing & Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VSCode REST Client](https://img.shields.io/badge/VSCode_HTTP_Client-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-4F5B93?style=for-the-badge&logo=php&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
 ![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=mamp&logoColor=white)
 
@@ -103,409 +101,208 @@ Faculty of Computer Science and Information Technology
 
 ---
 
-## 📚 Learning Projects  
+## 📚 Projects
 
-Here are some of the web projects I’ve developed during my studies  
-to strengthen both **development** and **testing** skills.  
+💡 **Click on any project title to view its full repository and documentation.**
 
-💡 **Click on any project title below to view its full repository and documentation.**
+---
 
-<br>
+## 🌱 Highlight Project
 
-<div align="left">
+### 🌱 [GreenPlot Management System (Showcase)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase)
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <div>
-  <h3>🌱 <a href="https://github.com/ctrlfaith/Greenplot-Manager-Showcase">GreenPlot Management System (Showcase)</a></h3>
+A full-stack web-based agricultural management system developed as a **Bachelor's Degree Research Project**, designed and implemented solely following the SDLC (Waterfall) process — covering requirement analysis, database design, backend development, and system testing.
 
-  <p>
-    GreenPlot is a full-stack web-based agricultural management system developed as a Bachelor's Degree Research Project. The system was designed and implemented by a sole developer following the SDLC (Waterfall) process, covering requirement analysis, database design, backend development, and system testing.
-  </p>
+The system manages farming operations including planting records, cost tracking, yield management, buyer information, and production reporting. Integrates the **LINE Messaging API** for automated real-time notifications on farming activities and payment status updates.
 
-  <p>
-    The system manages farming operations including planting records, cost tracking, yield management, buyer information, and production reporting. It also integrates the LINE Messaging API for automated real-time notifications on farming activities and payment status updates.
-  </p>
+**Architecture & Engineering:**
+- 12-module CRUD system under Three-Tier Architecture
+- User-scoped authorization on every request
+- Service Layer pattern for business logic separation
+- Dashboard analytics for P&L, ROI, and Break-even analysis
+- PDF report generation via Laravel DomPDF
 
-  <ul>
-    <li>
-      <strong>Architecture & Engineering:</strong>
-      <ul>
-        <li>12-module CRUD system under Three-Tier Architecture</li>
-        <li>User-scoped authorization on every request</li>
-        <li>Service Layer pattern implementation for business logic separation</li>
-        <li>Dashboard analytics for P&amp;L, ROI, and Break-even analysis</li>
-        <li>PDF report generation via Laravel DomPDF</li>
-      </ul>
-    </li>
+**Tech Stack:** Laravel, Blade Templates, PHP, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
 
-    <li>
-      <strong>Tech Stack:</strong>
-      Laravel, Blade Templates, PHP, HTML, CSS, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
-    </li>
+**Testing & Validation:** Functional Testing (14 test cases), API validation via Postman, UAT with 15 real users — satisfaction score **4.64/5**
 
-    <li>
-      <strong>Testing &amp; Validation:</strong>
-      Functional Testing (14 test cases), API validation using Postman, and UAT with 15 real users achieving a satisfaction score of <strong>4.64/5</strong>
-    </li>
+**🏆 Recognition:** Selected by faculty for further development toward **academic journal publication** (in progress)
 
-    <li>
-      <strong>🏆 Recognition:</strong>
-      Selected by faculty for further development toward <strong>academic journal publication</strong> (in progress)
-    </li>
+> This repository is a *Showcase Version* created for portfolio and demonstration purposes only.
 
-    <li>
-      <strong>Note:</strong>
-      This repository is a <em>Showcase Version</em> created for portfolio and demonstration purposes only.
-    </li>
-  </ul>
-</div>
+---
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🎭 <a href="https://github.com/ctrlfaith/reqres-api-testing">API Testing — Reqres with Playwright</a></h3>
-  <p>An API automation test project for <strong>Reqres</strong> built with <strong>Playwright</strong> — covering CREATE, SINGLE USER, UPDATE, and DELETE operations. Validates both response status and response result for each scenario, running automatically via <strong>GitHub Actions CI/CD</strong>.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>12 test cases across CREATE, SINGLE USER, UPDATE, and DELETE</li>
-        <li>Centralized test data via <code>config/user.config.js</code> — no hardcoded values</li>
-        <li>Global HTTP headers and baseURL configured in <code>playwright.config.js</code></li>
-        <li>CI/CD pipeline via GitHub Actions — auto-runs on every push</li>
-        <li>HTML report auto-generated at <code>playwright-report/</code> per run</li>
-        <li>Edge case coverage: non-existing user (404) and mock DELETE behavior noted</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tools:</strong>
-      Playwright, JavaScript, Node.js, GitHub Actions
-    </li>
-  </ul>
-</div>
+## 🧪 QA & Testing Projects
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>📋 <a href="https://github.com/ctrlfaith/qa-assignment-manual-test-cases">QA Assignment — Manual Test Cases</a></h3>
-  <p>Manual test case design for <strong>2 hypothetical systems</strong> based on given requirements — covering Happy Path, Negative, and Edge Cases with <strong>76 test cases in total</strong>. Demonstrates the ability to analyze requirements and design structured test cases without access to a real system.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>76 test cases across 2 systems — Clock-in / Clock-out and Employee Hotel Booking</li>
-        <li>Covers Happy Path, Negative, and Edge Cases including race conditions and session handling</li>
-        <li>Structured with Suite grouping, Pre-Condition, Test Steps, Expected Result, and Priority</li>
-        <li>Test cases documented in Google Sheets</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tools:</strong>
-      Google Sheets, Git, GitHub
-    </li>
-  </ul>
-</div>
+### 🧪 [QA Portfolio — Swag Labs Manual Testing](https://github.com/ctrlfaith/qa-portfolio-manual-testing)
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🤖 <a href="https://github.com/ctrlfaith/robot-framework-api-testing">API Testing — Restful Booker with Robot Framework</a></h3>
-  <p>An API test suite for <strong>Restful Booker</strong> built with <strong>Robot Framework 7.4.2</strong> — a continuation of the Postman project, rebuilt to demonstrate how the same coverage can be achieved with a code-based framework. Covers full CRUD, edge cases, and security testing with <strong>5 real bugs discovered</strong>, running automatically via <strong>GitHub Actions CI/CD</strong>.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>22 test cases across Authentication, CRUD, Edge Cases, and Security</li>
-        <li>Keyword-driven architecture with reusable <code>.resource</code> files</li>
-        <li>5 bugs found including XSS vulnerability and missing input validation</li>
-        <li>CI/CD pipeline via GitHub Actions — auto-runs on every push</li>
-        <li>Built-in HTML + XML report generated per run</li>
-        <li>Postman vs Robot Framework comparison documented in README</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tools:</strong>
-      Robot Framework, Python, RequestsLibrary, GitHub Actions, Git, GitHub
-    </li>
-  </ul>
-</div>
+A complete manual testing project for **Swag Labs (saucedemo.com)** covering all features across **6 user types** — with **25 bugs discovered** including critical link mapping failures, broken checkout flows, and dynamic price inconsistencies.
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🔥 <a href="https://github.com/ctrlfaith/jmeter-performance-testing">Performance Testing — REST API with Apache JMeter</a></h3>
-  <p>A performance test suite for <strong>JSONPlaceholder REST API</strong> built with <strong>Apache JMeter 5.6.3</strong> — simulating concurrent users across 4 scenarios (50–500 users) to measure Response Time, Throughput, and Error Rate, with <strong>zero errors across all 4,250 requests</strong>.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>4 test scenarios: Load Test (50 users) and Stress Test (100, 200, 500 users)</li>
-        <li>Total 4,250 requests executed with 0.00% error rate across all scenarios</li>
-        <li>Average response time remained stable at 75–103ms despite 10x load increase</li>
-        <li>HTML Dashboard Report generated per scenario via JMeter CLI</li>
-        <li>Raw results stored as .jtl files for reproducibility</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tools:</strong>
-      Apache JMeter, Java, Git, GitHub
-    </li>
-  </ul>
-</div>
+- ~129 test cases across Login, Product List, Product Detail, Cart, Checkout, Logout
+- 6 user types: standard, locked_out, problem, performance_glitch, error, visual
+- 25 bugs found — 6 Critical, 10 High, 5 Medium, 4 Low
+- Test types: Happy Path, Negative, Edge Case, Security, Performance, Visual
+- Performance measured via Chrome DevTools (LCP, INP)
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🤖 <a href="https://github.com/ctrlfaith/qa-portfolio-automation">QA Portfolio — Swag Labs Automation Testing (Playwright)</a></h3>
-  <p>An automation test suite for <strong>Swag Labs (saucedemo.com)</strong> built with <strong>Playwright + JavaScript</strong> as a continuation of the Manual Testing project — covering Login, Cart, Checkout, and Sorting across multiple user types, with <strong>5 known bugs documented</strong> through intentionally failing tests.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>18 test cases across Login, Cart, Checkout, Sorting (54 runs across 3 browsers)</li>
-        <li>Multiple user types tested: standard, locked_out, problem, error, visual, performance_glitch</li>
-        <li>Known bugs documented as intentional failing tests with BUG comments</li>
-        <li>CI/CD pipeline via GitHub Actions — auto-runs on every push</li>
-        <li>HTML report with screenshot and trace on failure</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tools:</strong>
-      Playwright, JavaScript, GitHub Actions, Git, GitHub
-    </li>
-  </ul>
-</div>
+**Tools:** Chrome DevTools, Google Sheets, Git, GitHub
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🧪 <a href="https://github.com/ctrlfaith/qa-portfolio-manual-testing">QA Portfolio — Swag Labs Manual Testing</a></h3>
-  <p>A complete manual testing project for <strong>Swag Labs (saucedemo.com)</strong> covering all features across <strong>6 user types</strong> — with <strong>25 bugs discovered</strong> including critical link mapping failures, broken checkout flows, and dynamic price inconsistencies.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>~129 Test Cases across Login, Product List, Product Detail, Cart, Checkout, Logout</li>
-        <li>6 user types tested: standard, locked_out, problem, performance_glitch, error, visual</li>
-        <li>25 bugs found — 6 Critical, 10 High, 5 Medium, 4 Low</li>
-        <li>Test types: Happy Path, Negative, Edge Case, Security, Performance, Visual</li>
-        <li>Performance measured via Chrome DevTools (LCP, INP)</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tools:</strong>
-      Chrome DevTools, Google Sheets, Git, GitHub
-    </li>
-    <li>
-      <strong>Live Bug Report:</strong>
-      <a href="https://ctrlfaith.github.io/qa-portfolio-manual-testing/">View Interactive Bug Report</a>
-    </li>
-  </ul>
-</div>
+**Live Bug Report:** [View Interactive Bug Report](https://ctrlfaith.github.io/qa-portfolio-manual-testing/)
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🧪 <a href="https://github.com/ctrlfaith/qa-portfolio-api-testing">QA Portfolio — Restful Booker API Testing</a></h3>
-  <p>An API test collection for <strong>Restful Booker</strong> built with <strong>Postman</strong> as part of a QA portfolio project. The collection covers complete CRUD operations, edge cases, and security testing — with <strong>5 real bugs discovered</strong> including XSS vulnerability and missing input validation.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>Full CRUD coverage: GET, POST, PUT, DELETE</li>
-        <li>Authentication flow with token management</li>
-        <li>9 Edge Cases including SQL Injection and XSS</li>
-        <li>5 bugs found with severity classification</li>
-        <li>pm.test() assertions with auto-saved environment variables</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tools:</strong>
-      Postman, JavaScript (pm.test assertions), Git, GitHub
-    </li>
-    <li>
-      <strong>Live Summary:</strong>
-      <a href="https://ctrlfaith.github.io/qa-portfolio-api-testing/">View Project Summary</a>
-    </li>
-  </ul>
-</div>
+---
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>💼 <a href="https://github.com/ctrlfaith/ctrlfaith-portfolio-showcase">Personal Portfolio — Portfolio Showcase Website</a></h3>
-  <p>A modern personal portfolio website built with <strong>Next.js 16</strong> and <strong>React 19</strong> to showcase personal information, technical skills, projects, and contact information. Features real-time project data fetched from <strong>GitHub API</strong>. Designed with <strong>Apple-inspired Glass Morphism</strong> design system and smooth animations using <strong>Framer Motion</strong> for an impressive user experience.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>Hero Section with Animated Memoji</li>
-        <li>About Section with education info</li>
-        <li>Tech Stack Section with icons</li>
-        <li>Projects Section with GitHub API</li>
-        <li>Contact Section with Copy to Clipboard</li>
-        <li>Resume Download with bilingual support (Thai/English)</li>
-        <li>Glass Morphism Design</li>
-        <li>Fully Responsive</li>
-        <li>Smooth Animations</li>
-        <li>Smooth Navigation with Active Indicator</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tech Stack:</strong>
-      HTML5, CSS3, JavaScript, TypeScript, Next.js 16, React 19, Tailwind CSS 4, Framer Motion, Lucide React, GitHub REST API
-    </li>
-    <li>
-      <strong>Live Demo:</strong> <a href="https://ctrlfaith-portfolio.vercel.app/">https://ctrlfaith-portfolio.vercel.app/</a>
-    </li>
-  </ul>
-</div>
+### 🤖 [QA Portfolio — Swag Labs Automation Testing (Playwright)](https://github.com/ctrlfaith/qa-portfolio-automation)
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🎬 <a href="https://github.com/ctrlfaith/netflix-eda">Netflix Movies & TV Shows – Exploratory Data Analysis (EDA)</a></h3>
-  <p>An exploratory data analysis project on Netflix's global content dataset using **Python** and **Pandas**. The analysis focuses on discovering trends in content production countries, popular genres, content growth patterns over years, and viewer rating distributions. Developed as a Data Mining coursework project to practice data analysis and visualization skills.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>Data cleaning and preprocessing</li>
-        <li>Statistical analysis</li>
-        <li>Data visualization with Matplotlib</li>
-        <li>Trend discovery and insights</li>
-        <li>Content growth analysis</li>
-        <li>Genre and rating patterns</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tech Stack:</strong>
-      Python, Pandas, Matplotlib, NumPy, Kaggle Notebook
-    </li>
-  </ul>
-</div>
+Continuation of the Manual Testing project above — rebuilt with **Playwright + JavaScript**, covering Login, Cart, Checkout, and Sorting across multiple user types with **5 known bugs documented** through intentionally failing tests.
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🎤 <a href="https://github.com/ctrlfaith/Idol-Management-System">Idol Management System</a></h3>
-  <p>A full-stack web application for managing idols and bands with **complete CRUD functionality**. The system features a **Laravel RESTful API backend** connected to a **Next.js frontend**, allowing users to manage detailed information about idols (stage names, profiles, social media) and bands (debut years, agencies, member relationships). Developed as a Web Service Technology midterm project.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>RESTful API architecture</li>
-        <li>One-to-Many relationships</li>
-        <li>Complete CRUD operations</li>
-        <li>Responsive UI with DaisyUI</li>
-        <li>Social media integration</li>
-        <li>Comprehensive data management</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tech Stack:</strong>
-      Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL
-    </li>
-  </ul>
-</div>
+- 18 test cases across 4 modules (54 runs across 3 browsers)
+- Known bugs documented as intentional failing tests with BUG comments
+- CI/CD pipeline via GitHub Actions — auto-runs on every push
+- HTML report with screenshot and trace on failure
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🧩 <a href="https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL">CSIT CRUD – Tasks Management API</a></h3>
-  <p>A tasks management system built with **Laravel API** and **Next.js frontend**, created for **Web Service Technology** coursework. The application demonstrates **full-stack workflow** with **RESTful API development**, featuring task **CRUD operations** with properties like title, description, status, priority, and due dates. Includes comprehensive API testing using **REST Client (.http)** in Visual Studio Code.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>RESTful API development</li>
-        <li>Full-stack CRUD workflow</li>
-        <li>Task management system</li>
-        <li>API testing with .http files</li>
-        <li>Status and priority tracking</li>
-        <li>Real-time data synchronization</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tech Stack:</strong>
-      Laravel 11, Next.js 14, Tailwind CSS, MySQL, REST Client
-    </li>
-  </ul>
-</div>
+**Tools:** Playwright, JavaScript, GitHub Actions, Git, GitHub
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🧳 <a href="https://github.com/ctrlfaith/georgia-escape-demo">Georgia Escape – Tour Package Booking Website (Showcase)</a></h3>
-  <p>Georgia Escape is a responsive travel booking website designed to showcase destinations and tour packages for Georgia tourism. The platform features multiple pages including home, tour packages, package details, blog, reservation forms, and contact information, all built with a focus on clean UI design and mobile responsiveness using Bootstrap framework.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>Multi-page layout structure</li>
-        <li>Responsive UI across devices</li>
-        <li>Tour package showcases</li>
-        <li>Booking form integration</li>
-        <li>Bootstrap grid system</li>
-        <li>Clean and modern design</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tech Stack:</strong>
-      HTML, CSS, JavaScript, Bootstrap, Google Fonts
-    </li>
-    <li>
-      <strong>Live Demo:</strong> <a href="https://georgia-escape.vercel.app/">https://georgia-escape.vercel.app/</a>
-    </li>
-    <li>
-      <strong>Note:</strong> This repository is a <em>Showcase Version</em> created for demonstration and portfolio purposes only.
-    </li>
-  </ul>
-</div>
+---
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>📊 <a href="https://github.com/ctrlfaith/sales-dashboard-system">Sales Dashboard System</a></h3>
-  <p>A web-based sales management system with integrated **data visualization dashboard**. The system connects **MySQL** database through **Google Sheets** to **Looker Studio**, creating interactive **real-time dashboards** embedded via iframe. Features include sales data entry, viewing records, and comprehensive visual analytics for sales performance monitoring.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>Real-time dashboard integration</li>
-        <li>Looker Studio visualization</li>
-        <li>MySQL to Google Sheets sync</li>
-        <li>Interactive data analytics</li>
-        <li>Sales record management</li>
-        <li>Embedded dashboard display</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tech Stack:</strong>
-      HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, Google Sheets, Looker Studio
-    </li>
-  </ul>
-</div>
+### 🧪 [QA Portfolio — Restful Booker API Testing (Postman)](https://github.com/ctrlfaith/qa-portfolio-api-testing)
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>🪄 <a href="https://github.com/ctrlfaith/hogwarts-db">Hogwarts DB – Character Management System</a></h3>
-  <p>A **CRUD web application** for managing Harry Potter character database, developed as a **Web Technology course project**. The system features a **PHP RESTful API backend** connected to a **Next.js frontend**, managing detailed character information including houses, actors, wands, blood status, and character relationships. Includes comprehensive **API testing with Postman** for all CRUD operations.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>Complete CRUD functionality</li>
-        <li>PHP RESTful API</li>
-        <li>Character database management</li>
-        <li>API testing with Postman</li>
-        <li>Detailed character profiles</li>
-        <li>Next.js frontend integration</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tech Stack:</strong>
-      Next.js, React, Tailwind CSS, PHP API, MySQL, Postman
-    </li>
-  </ul>
-</div>
+An API test collection for **Restful Booker** built with **Postman** — covering full CRUD, edge cases, and security testing with **5 real bugs discovered** including XSS vulnerability and missing input validation.
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:18px; margin:16px 0; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-  <h3>📱 <a href="https://github.com/ctrlfaith/mobile_management_system">Mobile Management System</a></h3>
-  <p>A **Laravel-based CRUD web application** for managing mobile phone data, developed for **Electronic Business Development coursework**. The system manages brands, operating systems, and mobile phone models with detailed specifications including CPU, RAM, and pricing. Features a clean interface built with **Blade templates, Tailwind CSS, and daisyUI** for an intuitive user experience.</p>
-  <ul>
-    <li>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>Three-table relational database</li>
-        <li>Brand and OS management</li>
-        <li>Mobile specifications tracking</li>
-        <li>Blade template system</li>
-        <li>Modern UI with daisyUI</li>
-        <li>Complete CRUD operations</li>
-      </ul>
-    </li>
-    <li>
-      <strong>Tech Stack:</strong>
-      Laravel, Blade Templates, Tailwind CSS, DaisyUI, MySQL
-    </li>
-  </ul>
-</div>
+- Full CRUD coverage: GET, POST, PUT, DELETE
+- Authentication flow with token management
+- 9 edge cases including SQL Injection and XSS
+- pm.test() assertions with auto-saved environment variables
 
-</div>
+**Tools:** Postman, JavaScript (pm.test), Git, GitHub
+
+**Live Summary:** [View Project Summary](https://ctrlfaith.github.io/qa-portfolio-api-testing/)
+
+---
+
+### 🤖 [API Testing — Restful Booker with Robot Framework](https://github.com/ctrlfaith/robot-framework-api-testing)
+
+Continuation of the Postman project above — rebuilt with **Robot Framework 7.4.2** to demonstrate how the same coverage can be achieved with a code-based framework. **5 real bugs discovered**, running automatically via **GitHub Actions CI/CD**.
+
+- 22 test cases across Authentication, CRUD, Edge Cases, and Security
+- Keyword-driven architecture with reusable `.resource` files
+- 5 bugs found including XSS vulnerability and missing input validation
+- Postman vs Robot Framework comparison documented in README
+
+**Tools:** Robot Framework, Python, RequestsLibrary, GitHub Actions, Git, GitHub
+
+---
+
+### 🎭 [API Testing — Reqres with Playwright](https://github.com/ctrlfaith/reqres-api-testing)
+
+An API automation test project for **Reqres** built with **Playwright** — covering CREATE, SINGLE USER, UPDATE, and DELETE operations, running automatically via **GitHub Actions CI/CD**.
+
+- 12 test cases across CREATE, SINGLE USER, UPDATE, and DELETE
+- Centralized test data via `config/user.config.js` — no hardcoded values
+- Edge case coverage: non-existing user (404) and mock DELETE behavior
+
+**Tools:** Playwright, JavaScript, Node.js, GitHub Actions
+
+---
+
+### 🔥 [Performance Testing — REST API with Apache JMeter](https://github.com/ctrlfaith/jmeter-performance-testing)
+
+A performance test suite for **JSONPlaceholder REST API** built with **Apache JMeter 5.6.3** — simulating concurrent users across 4 scenarios (50–500 users) with **zero errors across all 4,250 requests**.
+
+- 4 scenarios: Load Test (50 users) and Stress Test (100, 200, 500 users)
+- Average response time stable at 75–103ms despite 10x load increase
+- HTML Dashboard Report generated per scenario via JMeter CLI
+
+**Tools:** Apache JMeter, Java, Git, GitHub
+
+---
+
+### 📋 [QA Assignment — Manual Test Cases](https://github.com/ctrlfaith/qa-assignment-manual-test-cases)
+
+Manual test case design for **2 hypothetical systems** based on given requirements — demonstrating the ability to analyze requirements and design structured test cases without access to a real system.
+
+- 76 test cases across Clock-in/Clock-out and Employee Hotel Booking systems
+- Covers Happy Path, Negative, and Edge Cases including race conditions and session handling
+- Structured with Suite grouping, Pre-Condition, Test Steps, Expected Result, and Priority
+
+**Tools:** Google Sheets, Git, GitHub
+
+---
+
+## 💻 Development Projects
+
+### 💼 [Personal Portfolio — Portfolio Showcase Website](https://github.com/ctrlfaith/ctrlfaith-portfolio-showcase)
+
+A modern personal portfolio website built with **Next.js 16** and **React 19** — featuring real-time project data from the **GitHub API**, Apple-inspired Glass Morphism design, and smooth animations via **Framer Motion**.
+
+- Hero Section with Animated Memoji, Tech Stack, Projects, and Contact sections
+- Resume Download with bilingual support (Thai/English)
+- Fully responsive with smooth navigation and active indicator
+
+**Tech Stack:** TypeScript, Next.js 16, React 19, Tailwind CSS 4, Framer Motion, Lucide React, GitHub REST API
+
+**Live Demo:** [ctrlfaith-portfolio.vercel.app](https://ctrlfaith-portfolio.vercel.app/)
+
+---
+
+### 🎤 [Idol Management System](https://github.com/ctrlfaith/Idol-Management-System)
+
+A full-stack web application for managing idols and bands with **complete CRUD functionality** — featuring a **Laravel RESTful API backend** connected to a **Next.js frontend**. Developed as a Web Service Technology midterm project.
+
+- One-to-Many relationships between bands and idols
+- Manages stage names, profiles, social media, debut years, and agency info
+
+**Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, DaisyUI, MySQL
+
+---
+
+### 🧩 [CSIT CRUD — Tasks Management API](https://github.com/ctrlfaith/CSIT-NEXT-LARAVEL)
+
+A full-stack task management system with **Laravel RESTful API** and **Next.js frontend**, featuring CRUD operations with title, description, status, priority, and due dates. Includes API testing via **REST Client (.http)** in VS Code.
+
+**Tech Stack:** Laravel 11, Next.js 14, Tailwind CSS, MySQL, REST Client
+
+---
+
+### 🪄 [Hogwarts DB — Character Management System](https://github.com/ctrlfaith/hogwarts-db)
+
+A CRUD web application for managing a Harry Potter character database — featuring a **PHP RESTful API backend** with **Next.js frontend**, managing houses, actors, wands, blood status, and character relationships. Includes API testing with Postman.
+
+**Tech Stack:** Next.js, React, Tailwind CSS, PHP API, MySQL, Postman
+
+---
+
+### 📱 [Mobile Management System](https://github.com/ctrlfaith/mobile_management_system)
+
+A **Laravel-based CRUD web application** for managing mobile phone data — brands, operating systems, and models with specifications including CPU, RAM, and pricing. Developed for Electronic Business Development coursework.
+
+**Tech Stack:** Laravel, Blade Templates, Tailwind CSS, DaisyUI, MySQL
+
+---
+
+### 📊 [Sales Dashboard System](https://github.com/ctrlfaith/sales-dashboard-system)
+
+A web-based sales management system connecting **MySQL** through **Google Sheets** to **Looker Studio** — creating interactive real-time dashboards embedded via iframe for sales performance monitoring.
+
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, Google Sheets, Looker Studio
+
+---
+
+### 🧳 [Georgia Escape — Tour Package Booking Website (Showcase)](https://github.com/ctrlfaith/georgia-escape-demo)
+
+A responsive travel booking website showcasing destinations and tour packages for Georgia tourism — featuring multi-page layout, booking forms, and clean UI built with Bootstrap.
+
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Google Fonts
+
+**Live Demo:** [georgia-escape.vercel.app](https://georgia-escape.vercel.app/)
+
+> This repository is a *Showcase Version* created for demonstration and portfolio purposes only.
+
+---
+
+### 🎬 [Netflix Movies & TV Shows — Exploratory Data Analysis (EDA)](https://github.com/ctrlfaith/netflix-eda)
+
+An EDA project on Netflix's global content dataset — discovering trends in content production countries, popular genres, growth patterns over years, and rating distributions. Developed as a Data Mining coursework project.
+
+**Tech Stack:** Python, Pandas, Matplotlib, NumPy, Kaggle Notebook
 
 ---
 
