@@ -135,12 +135,13 @@ The system manages farming operations including Gardens, Planting Records, Cost 
 
 ### 🧪 [QA Portfolio — Swag Labs Manual Testing](https://github.com/ctrlfaith/qa-portfolio-manual-testing)
 
-A complete manual testing project for **Swag Labs (saucedemo.com)** covering all features across **6 user types** — with **25 bugs discovered** including critical link mapping failures, broken checkout flows, and dynamic price inconsistencies.
+A complete manual testing project for **Swag Labs (saucedemo.com)** covering all features across **6 user types** — with **25 bugs discovered** (44 failing TCs mapped to root causes) including critical link mapping failures, dynamic price inconsistencies, and broken checkout flows.
 
-- ~129 test cases across Login, Product List, Product Detail, Cart, Checkout, Logout
+- ~129 test cases across Login, Product List, Product Detail, Cart & Checkout, and Logout
 - 6 user types: standard, locked_out, problem, performance_glitch, error, visual
 - 25 bugs found — 6 Critical, 10 High, 5 Medium, 4 Low
 - Test types: Happy Path, Negative, Edge Case, Security, Performance, Visual
+- Notable: BUG-017 link mapping failure (product A → page B), BUG-013 dynamic price change on navigation
 - Performance measured via Chrome DevTools (LCP, INP)
 
 **Tools:** Chrome DevTools, Google Sheets, Git, GitHub
