@@ -111,16 +111,15 @@ Faculty of Computer Science and Information Technology
 
 ### 🌱 [GreenPlot Management System (Showcase)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase)
 
-A full-stack web-based agricultural management system developed as a **Bachelor's Degree Research Project**, designed and implemented solely following the SDLC (Waterfall) process — covering requirement analysis, database design, backend development, and system testing.
+A full-stack web-based agricultural management system developed as a **Bachelor's Degree Research Project** by a sole developer, following the SDLC (Waterfall) process — covering requirement analysis, database design, backend development, and system testing.
 
-The system manages farming operations including planting records, cost tracking, yield management, buyer information, and production reporting. Integrates the **LINE Messaging API** for automated real-time notifications on farming activities and payment status updates.
+The system manages farming operations including Gardens, Planting Records, Cost tracking, Yield management, Buyer information, and Production reporting. Integrates the **LINE Messaging API** for automated real-time notifications on farming activities and payment status updates.
 
 **Architecture & Engineering:**
-- 12-module CRUD system under Three-Tier Architecture
-- User-scoped authorization on every request
-- Service Layer pattern for business logic separation
-- Dashboard analytics for P&L, ROI, and Break-even analysis
+- 12-module CRUD system under Three-Tier Architecture with user-scoped authorization on every request — including Gardens, Planting Records, Costs, Yield Records, and Reports
+- Service Layer pattern (`ProfitLossService`, `HarvestSummaryService`, `HarvestKPIService`) separating business logic from controllers, supporting P&L, ROI, and Break-even analysis
 - PDF report generation via Laravel DomPDF
+- LINE Messaging API integration with webhook signature validation for automated real-time notifications
 
 **Tech Stack:** Laravel, Blade Templates, PHP, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
 
