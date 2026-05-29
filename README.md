@@ -133,7 +133,7 @@ to strengthen both **development** and **testing** skills.
     </li>
     <li>
       <strong>Tech Stack:</strong>
-      Laravel, Next.js, PHP, HTML, CSS, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
+      Laravel, Blade Templates, PHP, HTML, CSS, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
     </li>
     <li>
       <strong>Testing & Validation:</strong>
