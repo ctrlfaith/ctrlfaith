@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Phuriphatthanachai Rattanatham
 
-💻 Interested in **Web Development**, **Software Testing**, **Security**, and **ERP Systems**
+💻 Interested in **Web Development**, **Software Testing**, **Security**, and **ERP Systems**<br>
 🚀 Enjoy exploring different sides of software — from building to breaking to optimizing
 
 ![Status](https://img.shields.io/badge/Status-Fresh_Graduate-blue?style=for-the-badge)
