@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Fresh_Graduate-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Dev_|_QA_|_Security_|_ERP-blue?style=for-the-badge)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Web+Development+%7C+API+Development+%7C+Software+Testing;Always+learning+and+building+better+software!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Web+Dev+%7C+QA+%7C+Security+%7C+Pentest+%7C+ERP;Exploring+different+sides+of+software!)](https://git.io/typing-svg)
 
 </div>
 
