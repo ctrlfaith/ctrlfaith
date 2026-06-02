@@ -131,6 +131,21 @@ The system manages farming operations including Gardens, Planting Records, Cost 
 
 ---
 
+### 🔐 [VulnLab — Full-Stack Security & QA Testing Portfolio](https://github.com/ctrlfaith/vulnlab)
+An intentionally vulnerable **note-sharing web app** built to demonstrate end-to-end QA and security testing — covering **7 documented OWASP vulnerabilities** with **46/46 passing tests** across all test types.
+- 46 tests across Unit, Integration, E2E (Playwright), Security (OWASP ZAP), and Performance (JMeter)
+- 7 intentional vulnerabilities: IDOR, SQL Injection, XSS, Broken Access Control, Weak JWT, Stack Trace Exposure, No Rate Limiting
+- Integration tests verify exploits directly: `' OR 1=1 #` SQLi, forged JWT, IDOR across users
+- OWASP ZAP baseline scan: 56 PASS, 0 FAIL — XSS confirmed via `dangerouslySetInnerHTML` detection
+- Load test: 250 requests, 50 virtual users, 0.00% error rate, avg 10ms response time
+- CI/CD via GitHub Actions — backend + E2E jobs run on every push to `main`
+
+**Stack:** Next.js 15, React 19, Node.js, Express, MySQL, Prisma, JWT  
+**Tools:** Jest, Supertest, Playwright, OWASP ZAP, Apache JMeter, GitHub Actions  
+**Live Demo:** [fortunate-luck-production-b82a.up.railway.app](https://fortunate-luck-production-b82a.up.railway.app) *(intentionally vulnerable — do not submit real data)*
+
+---
+
 ## 🧪 QA & Testing Projects
 
 ### 🧪 [QA Portfolio — Swag Labs Manual Testing](https://github.com/ctrlfaith/qa-portfolio-manual-testing)
