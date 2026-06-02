@@ -2,8 +2,8 @@
 
 # 👋 Hi there, I'm Phuriphatthanachai Rattanatham
 
-💻 Passionate about **Web Development**, **API Development**, and **Software Testing**  
-🚀 Bridging **Dev** and **QA** to build software that is both functional and reliable
+💻 Interested in **Web Development**, **Software Testing**, **Security**, and **ERP Systems**
+🚀 Enjoy exploring different sides of software — from building to breaking to optimizing
 
 ![Status](https://img.shields.io/badge/Status-Fresh_Graduate-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Web_Development_&_Testing-blue?style=for-the-badge)
@@ -31,7 +31,6 @@ Worked as a **Software Tester Intern** at **LEXNETIX CO., LTD.**, performing Man
 
 ## 📬 Contact Me
 
-📇 **LinkedIn:** [linkedin.com/in/phuriphatthanachai-rattanatham-3b0ba4375](https://www.linkedin.com/in/phuriphatthanachai-rattanatham-3b0ba4375)  
 💻 **GitHub:** [github.com/ctrlfaith](https://github.com/ctrlfaith)  
 📧 **Email:** [bhm.rattanatham@gmail.com](mailto:bhm.rattanatham@gmail.com)
 
@@ -54,6 +53,7 @@ Faculty of Computer Science and Information Technology
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![daisyUI](https://img.shields.io/badge/daisyUI-4E46E5?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -66,6 +66,10 @@ Faculty of Computer Science and Information Technology
 ![LINE Messaging API](https://img.shields.io/badge/LINE_Messaging_API-00C300?style=for-the-badge&logo=line&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 📊 Data Analysis & Visualization  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,10 +91,6 @@ Faculty of Computer Science and Information Technology
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
 ![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=mamp&logoColor=white)
 
-### 🌱 Currently Learning
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
 ### 💻 Development Environment  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -98,6 +98,8 @@ Faculty of Computer Science and Information Technology
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
