@@ -24,10 +24,13 @@ Worked as a **Software Tester Intern** at **LEXNETIX CO., LTD.**, performing Man
 
 **Highlights:**
 
-- Designed **1,200+ Test Cases** in Google Sheets covering Positive, Negative, and Edge Cases across System Settings and DPA/DSA modules, based on UX/UI designs and live system behavior
-- Validated functional flows and permission behavior across **4 user roles** (DPO, Advisory, Admin, User)
-- Conducted Functional Testing across core modules including **ROPA, Consent, DSAR, Incident, and System Settings**, as well as newly introduced features across different system versions
-- Reported bugs via **ClickUp**, performed retesting for personal and team-reported issues, and collaborated with Developers and UX/UI teams within Agile/Sprint workflows
+- Performed **Manual Testing** on a production-level **PDPA Web Application** across multiple systems and versions in **Dev and UAT environments**, including remote testing on customer environments
+- Tested across **4 user roles (DPO, Advisory, Admin, User)** to validate **permission settings** and functional flows across different access levels
+- Designed and created **1,200+ test cases** using **Google Sheets** based on both UX/UI designs and live system behavior, covering **System Settings** and **DPA/DSA modules** with **Positive and Negative scenarios**
+- Conducted **Functional Testing** across core modules including **ROPA, Consent, DSAR, Incident, and System Settings**, as well as newly introduced features across different system versions
+- Reported bugs through **ClickUp**, performed **retesting** for both personal and team-reported issues after fixes, and collaborated with **Developers and UX/UI teams** within **Agile/Sprint workflows**
+
+---
 
 ## 📬 Contact Me
 
