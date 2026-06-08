@@ -124,6 +124,7 @@ The system manages farming operations including Gardens, Planting Records, Cost 
 **Architecture & Engineering:**
 - 12-module CRUD system under Three-Tier Architecture with user-scoped authorization on every request — including Gardens, Planting Records, Costs, Yield Records, and Reports
 - Service Layer pattern (`ProfitLossService`, `HarvestSummaryService`, `HarvestKPIService`) separating business logic from controllers, supporting P&L, ROI, and Break-even analysis
+- Developed a rule-based keyword matching engine for automatic expense categorization, mapping user-entered cost records to predefined agricultural cost groups used in ROI, Break-even, and Profit/Loss calculations
 - PDF report generation via Laravel DomPDF
 - LINE Messaging API integration with webhook signature validation for automated real-time notifications
 
