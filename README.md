@@ -114,6 +114,27 @@ Faculty of Computer Science and Information Technology
 ---
 
 ## 🌱 Highlight Project
+### 🗂️ [Taskflow — Task Management & Team Collaboration Platform](https://github.com/ctrlfaith/taskflow-samples)
+A full-stack Task Management and Team Collaboration Platform inspired by Jira and Trello, developed as a personal project to simulate real-world engineering practices — covering system design, authentication, authorization, and real-time collaboration.
+The system supports multi-user, multi-project workflows with Role-Based Access Control, Kanban Board management, and real-time updates across team members.
+
+**Architecture & Engineering:**
+- Modular Backend Architecture separating each feature into Controller, Service, Route, and Schema — enforcing clear separation of concerns across the request lifecycle: Route → Middleware → Controller → Service → Prisma → PostgreSQL
+- JWT Authentication with Access Token and Refresh Token, including automatic session renewal and token revocation on logout
+- Role-Based Access Control (RBAC) enforced at the API layer — not just UI visibility — with Admin and Member roles scoped per project
+- Kanban Board with Drag-and-Drop, Optimistic UI Update, and automatic rollback on failure to maintain data consistency between Frontend and Backend
+- Real-time collaboration via Socket.io, broadcasting state changes to all online team members instantly
+- Dockerized development environment using Docker Compose, running Frontend, Backend, and PostgreSQL in a single command
+
+**Tech Stack:** Next.js 15, Node.js, Express, TypeScript, Prisma ORM, PostgreSQL, Socket.io, React Query, Zustand, Tailwind CSS, Docker Compose, Railway
+
+**Development Process:** Planned and delivered across 6 Sprints following SDLC principles — from Authentication and Project Management to Kanban, Real-time Collaboration, and Deployment
+
+> This repository contains selected code samples for portfolio and demonstration purposes.
+
+🔗 **[Live Demo](https://frontend-production-6ae49.up.railway.app)**
+
+---
 
 ### 🌱 [GreenPlot Management System (Showcase)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase)
 
