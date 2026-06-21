@@ -159,7 +159,7 @@ The system supports multi-user, multi-project workflows with Role-Based Access C
 
 ---
 
-### 🗂️ [Smart Grid Monitor — Automation & Predictive Alerting System](https://github.com/ctrlfaith/smart-grid-monitor)
+### ⚡ [Smart Grid Monitor — Automation & Predictive Alerting System](https://github.com/ctrlfaith/smart-grid-monitor)
 
 A lightweight Smart Grid monitoring system built in Python, simulating real-time device surveillance across Transformers and Switch Gear — detecting anomalies, identifying rising-risk conditions through trend analysis, and delivering alerts via Discord Webhook.
 
