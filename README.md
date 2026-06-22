@@ -161,26 +161,29 @@ The system supports multi-user, multi-project workflows with Role-Based Access C
 
 ### ⚡ [Smart Grid Monitor — Automation & Predictive Alerting System](https://github.com/ctrlfaith/smart-grid-monitor)
 
-A lightweight Smart Grid monitoring system built in Python, simulating real-time device surveillance across Transformers and Switch Gear — detecting anomalies, identifying rising-risk conditions through trend analysis, and delivering alerts via Discord Webhook.
+A Python-based Smart Grid monitoring system that simulates real-time device surveillance across Transformers, Switch Gear, and Circuit Breakers — detecting anomalies, identifying rising-risk conditions through trend analysis, and delivering alerts via Discord Webhook.
 
-Designed around a modular architecture with clear separation of concerns, each component can evolve independently without impacting the rest of the system. Beyond reactive monitoring, the project introduces predictive alerting by issuing PRE-WARNING before thresholds are breached.
+Designed around a modular architecture with clear separation of concerns, each component can evolve independently without impacting the rest of the system. Beyond reactive monitoring, the project introduces both predictive alerting through trend analysis and adaptive anomaly detection through statistical deviation — issuing warnings before thresholds are breached.
 
 **Architecture & Engineering:**
-- Modular Architecture separating each concern into independent modules: config, simulator, detection, alerting, reporting, and scheduling — allowing each layer to be extended without affecting others
+- Modular Architecture separating each concern into independent modules: config, simulator, detection, alerting, reporting, scheduling, and dashboard — allowing each layer to be extended without affecting others
 - Multi-reason Anomaly Detection — a single device can trigger multiple conditions simultaneously (e.g. OVERHEAT + BROWNOUT), with every detected condition preserved and reported
+- Per-device Threshold — Circuit Breakers use a separate temperature threshold (65°C) distinct from Transformers (75°C), reflecting real-world device characteristics
 - Predictive Alerting via trend analysis — monitors temperature history across 3 consecutive cycles and issues PRE-WARNING when a sustained rise ≥ 2°C per cycle is detected, before the threshold is crossed
+- Adaptive Anomaly Detection via Z-Score — learns per-device baseline from historical data using a rolling window of 50 samples, flagging statistical deviations even when fixed thresholds are not exceeded
 - Severity Levels (CRITICAL, WARNING, PRE-WARNING, INFO) prioritizing response based on event type, not detection order
 - Discord Webhook Integration delivering real-time alerts with Device ID, Temperature, and Voltage per event
+- Streamlit Dashboard with 5 sections: Summary Stats, Live Device Status, Temperature Trend, Alert History, and Pattern Analysis — reading from CSV with auto-refresh
 - Runtime Logging to `smart_grid.log` with timestamps, and CSV export via `smart_grid_report.csv` for post-run review
 - Graceful Shutdown handling Ctrl+C with a full Run Summary — total cycles completed and alerts triggered
 
 **Testing:**
-- 14 Unit Tests covering normal operation, boundary conditions, anomaly detection, predictive trend analysis, multi-reason scenarios, edge cases, and priority logic
+- 16 Unit Tests covering normal operation, boundary conditions, anomaly detection, predictive trend analysis, multi-reason scenarios, edge cases, priority logic, and per-device threshold verification
 - `assertIn()` over `assertEqual()` for Multi-reason Detection — tests remain order-independent, reflecting actual system behavior
 
-**Tech Stack:** Python 3.10+, `unittest`, `requests`, `csv`, `logging`, `datetime`, `random`, `time`
+**Tech Stack:** Python 3.10+, `pytest`, `unittest`, `requests`, `streamlit`, `pandas`, `altair`, `pathlib`, `csv`, `logging`, `datetime`, `random`, `time`
 
-**Development Process:** Developed across 5 iterative sprints — from Foundation and Detection Logic to Alerting, Automation, and Documentation
+**Development Process:** Developed across 7 iterative sprints — from Foundation and Detection Logic to Alerting, Automation, Dashboard, and Adaptive Detection
 
 ---
 
