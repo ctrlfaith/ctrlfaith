@@ -5,8 +5,8 @@
 ⚙️ Digital Engineer interested in **Digital Engineering**, **Systems Engineering**, **Simulation**, and **Software Engineering**<br>
 🚀 Exploring how software, data, and systems engineering can be applied to solve engineering problems
 
-![Status](https://img.shields.io/badge/Status-Digital_Engineer-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Digital_Engineering_|_Systems_|_Simulation_|_Automation-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-Digital_Engineer-blue?style=for-the-badge" alt="Status: Digital Engineer" height="28">
+<img src="https://img.shields.io/badge/Focus-Digital_Engineering_%7C_Systems_%7C_Simulation_%7C_Automation-blue?style=for-the-badge" alt="Focus: Digital Engineering | Systems | Simulation | Automation" height="28">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Digital+Engineering+%7C+Systems+%7C+Simulation+%7C+Automation;Software+Engineering+%7C+Data+%7C+Testing)](https://git.io/typing-svg)
 
