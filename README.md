@@ -2,13 +2,13 @@
 
 # 👋 Hi there, I'm Phuriphatthanachai Rattanatham
 
-💻 Interested in **Web Development**, **Software Testing**, **Security**, and **ERP Systems**<br>
-🚀 Enjoy exploring different sides of software — from building to breaking to optimizing
+⚙️ Digital Engineer interested in **Digital Engineering**, **Systems Engineering**, **Simulation**, and **Software Engineering**<br>
+🚀 Exploring how software, data, and systems engineering can be applied to solve engineering problems
 
-![Status](https://img.shields.io/badge/Status-Fresh_Graduate-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Dev_|_QA_|_Security_|_ERP-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Digital_Engineer-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Digital_Engineering_|_Systems_|_Simulation_|_Automation-blue?style=for-the-badge)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Web+Dev+%7C+QA+%7C+Security+%7C+Pentest+%7C+ERP;Exploring+different+sides+of+software!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Digital+Engineering+%7C+Systems+%7C+Simulation+%7C+Automation;Software+Engineering+%7C+Data+%7C+Testing)](https://git.io/typing-svg)
 
 </div>
 
