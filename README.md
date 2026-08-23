@@ -23,7 +23,8 @@ security testing, now applied to systems engineering problems
 <tr>
 <td width="70%" valign="top">
 
-**Precise System and Project Co., Ltd.** · Aug 2026 – Present
+**Digital Engineer · Precise System and Project Co., Ltd.**
+Aug 2026 – Present
 
 Working on power plant system modeling and simulation — covering
 system architecture design (MBSE, SGAM), process flowcharting, and
