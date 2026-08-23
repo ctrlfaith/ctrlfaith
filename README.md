@@ -15,6 +15,18 @@ security testing, now applied to systems engineering problems
 
 </div>
 
+<div align="center">
+
+📌 [Current Role](#-current-role--digital-engineer) ·
+[Experience](#-previous-experience--software-testing) ·
+[Focus](#-engineering-focus) ·
+[Tech Stack](#️-tech-stack) ·
+[Projects](#-featured-engineering-projects) ·
+[Testing](#-testing--quality-engineering) ·
+[Archive](#-earlier-development--academic-projects)
+
+</div>
+
 ---
 
 ## 💼 Current Role — Digital Engineer
@@ -58,8 +70,12 @@ across Dev, UAT, and customer environments.
 
 ## 📬 Contact Me
 
-💻 **GitHub:** [github.com/ctrlfaith](https://github.com/ctrlfaith)
-📧 **Email:** [bhm.rattanatham@gmail.com](mailto:bhm.rattanatham@gmail.com)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ctrlfaith-181717?style=for-the-badge&logo=github)](https://github.com/ctrlfaith)
+[![Email](https://img.shields.io/badge/Email-bhm.rattanatham%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhm.rattanatham@gmail.com)
+
+</div>
 
 ---
 
@@ -121,17 +137,20 @@ A Python-based Smart Grid monitoring system that simulates real-time device surv
 
 Designed around a modular architecture with clear separation of concerns, each component can evolve independently without impacting the rest of the system. Beyond reactive monitoring, the project introduces both predictive alerting through trend analysis and adaptive anomaly detection through statistical deviation — issuing warnings before thresholds are breached.
 
-**Architecture & Engineering:**
-- Modular Architecture separating each concern into independent modules: config, simulator, detection, alerting, reporting, scheduling, and dashboard — allowing each layer to be extended without affecting others
-- Multi-reason Anomaly Detection — a single device can trigger multiple conditions simultaneously (e.g. OVERHEAT + BROWNOUT), with every detected condition preserved and reported
-- Per-device Threshold — Circuit Breakers use a separate temperature threshold (65°C) distinct from Transformers (75°C), reflecting real-world device characteristics
-- Predictive Alerting via trend analysis — monitors temperature history across 3 consecutive cycles and issues PRE-WARNING when a sustained rise ≥ 2°C per cycle is detected, before the threshold is crossed
-- Adaptive Anomaly Detection via Z-Score — learns per-device baseline from historical data using a rolling window of 50 samples, flagging statistical deviations even when fixed thresholds are not exceeded
-- Severity Levels (CRITICAL, WARNING, PRE-WARNING, INFO) prioritizing response based on event type, not detection order
-- Discord Webhook Integration delivering real-time alerts with Device ID, Temperature, and Voltage per event
-- Streamlit Dashboard with 5 sections: Summary Stats, Live Device Status, Temperature Trend, Alert History, and Pattern Analysis — reading from CSV with auto-refresh
-- Runtime Logging to `smart_grid.log` with timestamps, and CSV export via `smart_grid_report.csv` for post-run review
-- Graceful Shutdown handling Ctrl+C with a full Run Summary — total cycles completed and alerts triggered
+**Architecture:**
+- Modular design separating config, simulator, detection, alerting, reporting, scheduling, and dashboard — each layer extends independently without affecting others
+- Discord Webhook integration delivering real-time alerts with Device ID, Temperature, and Voltage per event
+- Runtime logging to `smart_grid.log`, CSV export via `smart_grid_report.csv`, and graceful shutdown (Ctrl+C) with a full run summary
+
+**Detection Logic:**
+- Multi-reason anomaly detection — a single device can trigger multiple conditions simultaneously (e.g. OVERHEAT + BROWNOUT), with every condition preserved and reported
+- Per-device thresholds — Circuit Breakers use 65°C vs. 75°C for Transformers, reflecting real-world device characteristics
+- Predictive alerting via trend analysis — tracks temperature across 3 consecutive cycles, issuing a PRE-WARNING on a sustained ≥2°C/cycle rise before the threshold is crossed
+- Adaptive detection via Z-Score — learns per-device baseline from a rolling 50-sample window, flagging statistical deviations even within fixed thresholds
+- Severity levels (CRITICAL, WARNING, PRE-WARNING, INFO) prioritizing response by event type, not detection order
+
+**Dashboard:**
+- Streamlit dashboard with 5 sections: Summary Stats, Live Device Status, Temperature Trend, Alert History, and Pattern Analysis — reading from CSV with auto-refresh
 
 **Testing:**
 - 16 Unit Tests covering normal operation, boundary conditions, anomaly detection, predictive trend analysis, multi-reason scenarios, edge cases, priority logic, and per-device threshold verification
@@ -193,12 +212,15 @@ The system supports multi-user, multi-project workflows with Role-Based Access C
 
 An intentionally vulnerable **note-sharing web app** built to demonstrate end-to-end QA and security testing — covering **7 documented OWASP vulnerabilities** with **46/46 passing tests** across all test types.
 
+**Coverage:**
 - 46 tests across Unit, Integration, E2E (Playwright), Security (OWASP ZAP), and Performance (JMeter)
 - 7 intentional vulnerabilities: IDOR, SQL Injection, XSS, Broken Access Control, Weak JWT, Stack Trace Exposure, No Rate Limiting
+- CI/CD via GitHub Actions — backend + E2E jobs run on every push to `main`
+
+**Results:**
 - Integration tests verify exploits directly: `' OR 1=1 #` SQLi, forged JWT, IDOR across users
 - OWASP ZAP baseline scan: 56 PASS, 0 FAIL — XSS confirmed via `dangerouslySetInnerHTML` detection
 - Load test: 250 requests, 50 virtual users, 0.00% error rate, avg 10ms response time
-- CI/CD via GitHub Actions — backend + E2E jobs run on every push to `main`
 
 **Stack:** Next.js 15, React 19, Node.js, Express, MySQL, Prisma, JWT
 **Tools:** Jest, Supertest, Playwright, OWASP ZAP, Apache JMeter, GitHub Actions
@@ -207,6 +229,9 @@ An intentionally vulnerable **note-sharing web app** built to demonstrate end-to
 ---
 
 ## 🧪 Testing & Quality Engineering
+
+<details>
+<summary><strong>6 projects — click to expand</strong></summary>
 
 ### 🧪 [QA Portfolio — Swag Labs Manual Testing](https://github.com/ctrlfaith/qa-portfolio-manual-testing)
 
@@ -303,9 +328,14 @@ Manual test case design for **2 hypothetical systems** based on given requiremen
 
 **Tools:** Google Sheets, Git, GitHub
 
+</details>
+
 ---
 
 ## 💻 Earlier Development & Academic Projects
+
+<details>
+<summary><strong>8 projects — click to expand</strong></summary>
 
 ### 💼 [Personal Portfolio — Portfolio Showcase Website](https://github.com/ctrlfaith/ctrlfaith-portfolio-showcase)
 
@@ -396,6 +426,8 @@ An EDA project on Netflix's global content dataset using **Python** — discover
 **Tech Stack:** Python, Pandas, Matplotlib, NumPy, Kaggle Notebook
 
 **Kaggle Notebook:** [View Full Analysis](https://www.kaggle.com/code/phuriphattnc/netflix-eda-1014-phuriphatthanachai)
+
+</details>
 
 ---
 
