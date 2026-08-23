@@ -30,6 +30,11 @@ security testing, now applied to systems engineering problems
 ---
 
 ## 💼 Current Role — Digital Engineer
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
 **Precise System and Project Co., Ltd.** · Aug 2026 – Present
 
 Working on power plant system modeling and simulation — covering
@@ -41,6 +46,21 @@ senior engineers on direction and review.
 This builds on a foundation in full-stack development, software
 testing, and security testing, now applied to systems engineering
 and simulation problems.
+
+</td>
+<td width="30%" valign="top">
+
+**Context**
+
+⚡ Power Plant
+🧩 MBSE / SGAM
+📐 Simulation
+📊 Analysis
+⚙️ Software
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,11 +80,15 @@ across Dev, UAT, and customer environments.
 
 ## 🎯 Engineering Focus
 
-- Digital Engineering & Simulation
-- Systems Engineering
-- Software Engineering
-- Data Analysis & Automation
-- Testing & Security Validation
+<table>
+<tr>
+<td align="center" width="20%">🧩<br><b>Digital Engineering</b><br><sub>& Simulation</sub></td>
+<td align="center" width="20%">🏗️<br><b>Systems Engineering</b></td>
+<td align="center" width="20%">💻<br><b>Software Engineering</b></td>
+<td align="center" width="20%">📊<br><b>Data Analysis</b><br><sub>& Automation</sub></td>
+<td align="center" width="20%">🧪<br><b>Testing</b><br><sub>& Security Validation</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -210,7 +234,16 @@ The system supports multi-user, multi-project workflows with Role-Based Access C
 
 ### 🔐 [VulnLab — Full-Stack Security & QA Testing Portfolio](https://github.com/ctrlfaith/vulnlab)
 
-An intentionally vulnerable **note-sharing web app** built to demonstrate end-to-end QA and security testing — covering **7 documented OWASP vulnerabilities** with **46/46 passing tests** across all test types.
+An intentionally vulnerable **note-sharing web app** built to demonstrate end-to-end QA and security testing.
+
+<table>
+<tr>
+<td align="center" width="25%"><b>46/46</b><br><sub>tests passing</sub></td>
+<td align="center" width="25%"><b>7</b><br><sub>OWASP vulnerabilities</sub></td>
+<td align="center" width="25%"><b>50</b><br><sub>virtual users</sub></td>
+<td align="center" width="25%"><b>0.00%</b><br><sub>load-test errors</sub></td>
+</tr>
+</table>
 
 **Coverage:**
 - 46 tests across Unit, Integration, E2E (Playwright), Security (OWASP ZAP), and Performance (JMeter)
