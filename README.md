@@ -15,18 +15,6 @@ security testing, now applied to systems engineering problems
 
 </div>
 
-<div align="center">
-
-📌 [Current Role](#-current-role--digital-engineer) ·
-[Experience](#-previous-experience--software-testing) ·
-[Focus](#-engineering-focus) ·
-[Tech Stack](#️-tech-stack) ·
-[Projects](#-featured-engineering-projects) ·
-[Testing](#-testing--quality-engineering) ·
-[Archive](#-earlier-development--academic-projects)
-
-</div>
-
 ---
 
 ## 💼 Current Role — Digital Engineer
@@ -52,11 +40,11 @@ and simulation problems.
 
 **Context**
 
-⚡ Power Plant
-🧩 MBSE / SGAM
-📐 Simulation
-📊 Analysis
-⚙️ Software
+- ⚡ Power Plant
+- 🧩 MBSE / SGAM
+- 📐 Simulation
+- 📊 Analysis
+- ⚙️ Software
 
 </td>
 </tr>
@@ -105,7 +93,9 @@ across Dev, UAT, and customer environments.
 
 ## 🎓 Education
 
-Bachelor of Information Technology · First Class Honours · GPAX 3.92
+**Bachelor of Information Technology**
+
+![First Class Honours](https://img.shields.io/badge/First_Class_Honours-GPAX_3.92-1f6feb?style=for-the-badge)
 
 ---
 
