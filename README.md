@@ -1,163 +1,119 @@
 <div align="center">
 
-# 👋 Hi there, I'm Phuriphatthanachai Rattanatham
+# 👋 Hi, I'm Phuriphatthanachai Rattanatham
 
-⚙️ Digital Engineer interested in **Digital Engineering**, **Systems Engineering**, **Simulation**, and **Software Engineering**<br>
-🚀 Exploring how software, data, and systems engineering can be applied to solve engineering problems
+⚙️ Digital Engineer at Precise System and Project — 
+currently focused on power plant simulation and analysis
+
+🚀 Background in full-stack development, software testing, and 
+security testing, now applied to systems engineering problems
 
 ![Status](https://img.shields.io/badge/Status-Digital_Engineer-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Digital_Engineering_|_Systems_|_Simulation_|_Automation-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Digital_Engineering_|_Systems_|_Simulation-blue?style=for-the-badge)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Digital+Engineering+%7C+Systems+%7C+Simulation+%7C+Automation;Software+Engineering+%7C+Data+%7C+Testing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Systems+Engineering+%7C+Simulation+%7C+Digital+Engineering;Software+Engineering+%7C+Testing+%7C+Security)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💼 Software Tester Internship Experience
+## 💼 Current Role — Digital Engineer
+**Precise System and Project Co., Ltd.**
 
-Worked as a **Software Tester Intern** at **LEXNETIX CO., LTD.**, performing Manual Testing on a production-level **PDPA Web Application** across Dev, UAT, and remote customer environments within an **Agile/Scrum workflow**.
+Working on power plant system modeling and simulation — covering
+system architecture design (MBSE, SGAM), process flowcharting, and
+simulation logic for core plant calculations (e.g. steam/blowdown,
+turbine performance) — currently in progress, with guidance from
+senior engineers on direction and review.
 
-📅 March 2, 2026 – May 29, 2026  
-🎯 Role: Software Tester Intern (Manual QA)  
-📍 Chanthaburi, Thailand
+This builds on a foundation in full-stack development, software
+testing, and security testing, now applied to systems engineering
+and simulation problems.
 
-**Highlights:**
+---
 
-- Performed **Manual Testing** on a production-level **PDPA Web Application** across multiple systems and versions in **Dev and UAT environments**, including remote testing on customer environments
-- Tested across **4 user roles (DPO, Advisory, Admin, User)** to validate **permission settings** and functional flows across different access levels
-- Designed and created **1,200+ test cases** using **Google Sheets** based on both UX/UI designs and live system behavior, covering **System Settings** and **DPA/DSA modules** with **Positive and Negative scenarios**
-- Conducted **Functional Testing** across core modules including **ROPA, Consent, DSAR, Incident, and System Settings**, as well as newly introduced features across different system versions
-- Reported bugs through **ClickUp**, performed **retesting** for both personal and team-reported issues after fixes, and collaborated with **Developers and UX/UI teams** within **Agile/Sprint workflows**
+## 🧪 Previous Experience — Software Testing
+
+**Software Tester Intern — LEXNETIX CO., LTD.**
+Mar 2026 – May 2026
+
+Manual testing on a production-level PDPA web application
+across Dev, UAT, and customer environments.
+
+- Designed 1,200+ manual test cases across 4 user roles
+- Functional, regression, and exploratory testing
+- Bug tracking and retesting within an Agile/Sprint workflow
+
+---
+
+## 🎯 Engineering Focus
+
+- Digital Engineering & Simulation
+- Systems Engineering
+- Software Engineering
+- Data Analysis & Automation
+- Testing & Security Validation
 
 ---
 
 ## 📬 Contact Me
 
-💻 **GitHub:** [github.com/ctrlfaith](https://github.com/ctrlfaith)  
+💻 **GitHub:** [github.com/ctrlfaith](https://github.com/ctrlfaith)
 📧 **Email:** [bhm.rattanatham@gmail.com](mailto:bhm.rattanatham@gmail.com)
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Information Technology**  
-Faculty of Computer Science and Information Technology  
-**Rambhai Barni Rajabhat University** — Fresh Graduate
-
-🏅 **GPAX:** 3.92
+Bachelor of Information Technology · First Class Honours · GPAX 3.92
 
 ---
 
-## ⚙️ Tech Stack & Tools  
+## ⚙️ Tech Stack
 
-### 🖥️ Frontend  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+### Software Engineering
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![daisyUI](https://img.shields.io/badge/daisyUI-4E46E5?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-### ⚙️ Backend  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![RESTful API](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![LINE Messaging API](https://img.shields.io/badge/LINE_Messaging_API-00C300?style=for-the-badge&logo=line&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### 📊 Data Analysis & Visualization  
+### Data & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🧪 Testing & Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VSCode REST Client](https://img.shields.io/badge/VSCode_HTTP_Client-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-4F5B93?style=for-the-badge&logo=php&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
-![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=mamp&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-
-### 💻 Development Environment  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Systems & Backend
+![REST API](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Quality & Validation
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
 ---
 
-## 📚 Projects
+## 🚀 Featured Engineering Projects
 
 💡 **Click on any project title to view its full repository and documentation.**
-
----
-
-## 🌱 Highlight Project
-
-### 🌱 [GreenPlot Management System (Showcase)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase)
-
-A full-stack web-based agricultural management system developed as a **Bachelor's Degree Research Project** by a sole developer, following the SDLC (Waterfall) process — covering requirement analysis, database design, backend development, and system testing.
-
-The system manages farming operations including Gardens, Planting Records, Cost tracking, Yield management, Buyer information, and Production reporting. Integrates the **LINE Messaging API** for automated real-time notifications on farming activities and payment status updates.
-
-**Architecture & Engineering:**
-- 12-module CRUD system under Three-Tier Architecture with user-scoped authorization on every request — including Gardens, Planting Records, Costs, Yield Records, and Reports
-- Service Layer pattern (`ProfitLossService`, `HarvestSummaryService`, `HarvestKPIService`) separating business logic from controllers, supporting P&L, ROI, and Break-even analysis
-- Developed a rule-based keyword matching engine for automatic expense categorization, mapping user-entered cost records to predefined agricultural cost groups used in ROI, Break-even, and Profit/Loss calculations
-- PDF report generation via Laravel DomPDF
-- LINE Messaging API integration with webhook signature validation for automated real-time notifications
-
-**Tech Stack:** Laravel, Blade Templates, PHP, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
-
-**Testing & Validation:** Functional Testing (14 test cases), API validation via Postman, UAT with 15 real users — satisfaction score **4.64/5**
-
-**🏆 Recognition:** Selected by faculty for further development toward **academic journal publication** (in progress)
-
-> This repository is a *Showcase Version* created for portfolio and demonstration purposes only.
-
----
-### 🗂️ [Taskflow — Task Management & Team Collaboration Platform](https://github.com/ctrlfaith/taskflow-samples)
-A full-stack Task Management and Team Collaboration Platform inspired by Jira and Trello, developed as a personal project to simulate real-world engineering practices — covering system design, authentication, authorization, and real-time collaboration.
-The system supports multi-user, multi-project workflows with Role-Based Access Control, Kanban Board management, and real-time updates across team members.
-
-**Architecture & Engineering:**
-- Modular Backend Architecture separating each feature into Controller, Service, Route, and Schema — enforcing clear separation of concerns across the request lifecycle: Route → Middleware → Controller → Service → Prisma → PostgreSQL
-- JWT Authentication with Access Token and Refresh Token, including automatic session renewal and token revocation on logout
-- Role-Based Access Control (RBAC) enforced at the API layer — not just UI visibility — with Admin and Member roles scoped per project
-- Kanban Board with Drag-and-Drop, Optimistic UI Update, and automatic rollback on failure to maintain data consistency between Frontend and Backend
-- Real-time collaboration via Socket.io, broadcasting state changes to all online team members instantly
-- Dockerized development environment using Docker Compose, running Frontend, Backend, and PostgreSQL in a single command
-
-**Tech Stack:** Next.js 15, Node.js, Express, TypeScript, Prisma ORM, PostgreSQL, Socket.io, React Query, Zustand, Tailwind CSS, Docker Compose, Railway
-
-**Development Process:** Planned and delivered across 6 Sprints following SDLC principles — from Authentication and Project Management to Kanban, Real-time Collaboration, and Deployment
-
-> This repository contains selected code samples for portfolio and demonstration purposes.
-
-🔗 **[Live Demo](https://frontend-production-6ae49.up.railway.app)**
-
----
 
 ### ⚡ [Smart Grid Monitor — Automation & Predictive Alerting System](https://github.com/ctrlfaith/smart-grid-monitor)
 
@@ -187,8 +143,56 @@ Designed around a modular architecture with clear separation of concerns, each c
 
 ---
 
+### 🌱 [GreenPlot Management System (Showcase)](https://github.com/ctrlfaith/Greenplot-Manager-Showcase)
+
+A full-stack web-based agricultural management system developed as a **Bachelor's Degree Research Project** by a sole developer, following the SDLC (Waterfall) process — covering requirement analysis, database design, backend development, and system testing.
+
+The system manages farming operations including Gardens, Planting Records, Cost tracking, Yield management, Buyer information, and Production reporting. Integrates the **LINE Messaging API** for automated real-time notifications on farming activities and payment status updates.
+
+**Architecture & Engineering:**
+- 12-module CRUD system under Three-Tier Architecture with user-scoped authorization on every request — including Gardens, Planting Records, Costs, Yield Records, and Reports
+- Service Layer pattern (`ProfitLossService`, `HarvestSummaryService`, `HarvestKPIService`) separating business logic from controllers, supporting P&L, ROI, and Break-even analysis
+- Developed a rule-based keyword matching engine for automatic expense categorization, mapping user-entered cost records to predefined agricultural cost groups used in ROI, Break-even, and Profit/Loss calculations
+- PDF report generation via Laravel DomPDF
+- LINE Messaging API integration with webhook signature validation for automated real-time notifications
+
+**Tech Stack:** Laravel, Blade Templates, PHP, Tailwind CSS, Alpine.js, MySQL, Chart.js, Laravel DomPDF, LINE Messaging API
+
+**Testing & Validation:** Functional Testing (14 test cases), API validation via Postman, UAT with 15 real users — satisfaction score **4.64/5**
+
+**🏆 Recognition:** Selected by faculty for further development toward **academic journal publication** (in progress)
+
+> This repository is a *Showcase Version* created for portfolio and demonstration purposes only.
+
+---
+
+### 🗂️ [Taskflow — Task Management & Team Collaboration Platform](https://github.com/ctrlfaith/taskflow-samples)
+
+A full-stack Task Management and Team Collaboration Platform inspired by Jira and Trello, developed as a personal project to simulate real-world engineering practices — covering system design, authentication, authorization, and real-time collaboration.
+The system supports multi-user, multi-project workflows with Role-Based Access Control, Kanban Board management, and real-time updates across team members.
+
+**Architecture & Engineering:**
+- Modular Backend Architecture separating each feature into Controller, Service, Route, and Schema — enforcing clear separation of concerns across the request lifecycle: Route → Middleware → Controller → Service → Prisma → PostgreSQL
+- JWT Authentication with Access Token and Refresh Token, including automatic session renewal and token revocation on logout
+- Role-Based Access Control (RBAC) enforced at the API layer — not just UI visibility — with Admin and Member roles scoped per project
+- Kanban Board with Drag-and-Drop, Optimistic UI Update, and automatic rollback on failure to maintain data consistency between Frontend and Backend
+- Real-time collaboration via Socket.io, broadcasting state changes to all online team members instantly
+- Dockerized development environment using Docker Compose, running Frontend, Backend, and PostgreSQL in a single command
+
+**Tech Stack:** Next.js 15, Node.js, Express, TypeScript, Prisma ORM, PostgreSQL, Socket.io, React Query, Zustand, Tailwind CSS, Docker Compose, Railway
+
+**Development Process:** Planned and delivered across 6 Sprints following SDLC principles — from Authentication and Project Management to Kanban, Real-time Collaboration, and Deployment
+
+> This repository contains selected code samples for portfolio and demonstration purposes.
+
+🔗 **[Live Demo](https://frontend-production-6ae49.up.railway.app)**
+
+---
+
 ### 🔐 [VulnLab — Full-Stack Security & QA Testing Portfolio](https://github.com/ctrlfaith/vulnlab)
+
 An intentionally vulnerable **note-sharing web app** built to demonstrate end-to-end QA and security testing — covering **7 documented OWASP vulnerabilities** with **46/46 passing tests** across all test types.
+
 - 46 tests across Unit, Integration, E2E (Playwright), Security (OWASP ZAP), and Performance (JMeter)
 - 7 intentional vulnerabilities: IDOR, SQL Injection, XSS, Broken Access Control, Weak JWT, Stack Trace Exposure, No Rate Limiting
 - Integration tests verify exploits directly: `' OR 1=1 #` SQLi, forged JWT, IDOR across users
@@ -196,13 +200,13 @@ An intentionally vulnerable **note-sharing web app** built to demonstrate end-to
 - Load test: 250 requests, 50 virtual users, 0.00% error rate, avg 10ms response time
 - CI/CD via GitHub Actions — backend + E2E jobs run on every push to `main`
 
-**Stack:** Next.js 15, React 19, Node.js, Express, MySQL, Prisma, JWT  
-**Tools:** Jest, Supertest, Playwright, OWASP ZAP, Apache JMeter, GitHub Actions  
+**Stack:** Next.js 15, React 19, Node.js, Express, MySQL, Prisma, JWT
+**Tools:** Jest, Supertest, Playwright, OWASP ZAP, Apache JMeter, GitHub Actions
 **Live Demo:** [fortunate-luck-production-b82a.up.railway.app](https://fortunate-luck-production-b82a.up.railway.app) *(intentionally vulnerable — do not submit real data)*
 
 ---
 
-## 🧪 QA & Testing Projects
+## 🧪 Testing & Quality Engineering
 
 ### 🧪 [QA Portfolio — Swag Labs Manual Testing](https://github.com/ctrlfaith/qa-portfolio-manual-testing)
 
@@ -301,7 +305,7 @@ Manual test case design for **2 hypothetical systems** based on given requiremen
 
 ---
 
-## 💻 Development Projects
+## 💻 Earlier Development & Academic Projects
 
 ### 💼 [Personal Portfolio — Portfolio Showcase Website](https://github.com/ctrlfaith/ctrlfaith-portfolio-showcase)
 
@@ -397,12 +401,10 @@ An EDA project on Netflix's global content dataset using **Python** — discover
 
 <div align="center">
 
-✨ **Thanks for checking out my profile!** ✨  
+✨ **Thanks for visiting my profile!** ✨
 
-Go ahead and dive into my projects and repositories.  
-I have fun learning and creating software, and I'm always enthusiastic about learning from the community.  
-
-If you're looking for a motivated developer/tester or want to talk tech,  
-I'd love to hear from you!  
+I enjoy building software, exploring engineering systems,
+and continuously learning how technology can be applied
+to solve real-world engineering problems.
 
 </div>
