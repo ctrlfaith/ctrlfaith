@@ -51,6 +51,8 @@ and simulation problems.
 </tr>
 </table>
 
+*Currently exploring: Digital Twin concepts (self-study, not yet applied on the job)*
+
 ---
 
 ## 🧪 Previous Experience — Software Testing
