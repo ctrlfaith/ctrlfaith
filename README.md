@@ -18,7 +18,7 @@ security testing, now applied to systems engineering problems
 ---
 
 ## 💼 Current Role — Digital Engineer
-**Precise System and Project Co., Ltd.**
+**Precise System and Project Co., Ltd.** · Aug 2026 – Present
 
 Working on power plant system modeling and simulation — covering
 system architecture design (MBSE, SGAM), process flowcharting, and
