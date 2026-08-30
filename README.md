@@ -2,11 +2,9 @@
 
 # 👋 Hi, I'm Phuriphatthanachai Rattanatham
 
-⚙️ Digital Engineer at Precise System and Project — 
-currently focused on power plant simulation and analysis
+⚙️ Digital Engineer at Precise System and Project — designing and developing engineering simulation and calculation systems for power plant performance verification
 
-🚀 Background in full-stack development, software testing, and 
-security testing, now applied to systems engineering problems
+🚀 Software engineering background now applied to systems engineering, engineering simulation, and real-world energy systems
 
 ![Status](https://img.shields.io/badge/Status-Digital_Engineer-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Digital_Engineering_|_Systems_|_Simulation-blue?style=for-the-badge)
@@ -26,15 +24,17 @@ security testing, now applied to systems engineering problems
 **Digital Engineer · Precise System and Project Co., Ltd.**
 Aug 2026 – Present
 
-Working on power plant system modeling and simulation — covering
-system architecture design (MBSE, SGAM), process flowcharting, and
-simulation logic for core plant calculations (e.g. steam/blowdown,
-turbine performance) — currently in progress, with guidance from
-senior engineers on direction and review.
+Designing and developing a Python-based engineering calculation and simulation engine to address limitations of existing Excel-based power plant calculations and provide a structured tool for performance verification and operator visibility.
 
-This builds on a foundation in full-stack development, software
-testing, and security testing, now applied to systems engineering
-and simulation problems.
+Responsible for system design and implementation from the ground up, working closely with an Electrical Engineer who provides domain expertise, validates engineering assumptions and calculation models, and coordinates with plant engineers to obtain operational data.
+
+The calculation engine is being developed as an integrated pipeline across **Fuel, Steam, Boiler, Turbine, Generator, and Waste** domains. Implemented calculation and validation modules for core areas, including steam property calculations using **IAPWS-IF97**, with additional engineering definitions and modules currently in progress.
+
+Designed **System Architecture, Use Case diagrams, CONOPS, and calculation workflows**, applying **Systems Engineering and MBSE** principles. Established structured technical documentation covering data requirements, engineering decisions, validation criteria, and implementation decisions to maintain traceability throughout development.
+
+Developed the project using **Python, pytest, and Ruff**, with structured input validation, automated testing, and code-quality checks supporting the reliability and maintainability of the calculation engine.
+
+**Current Status:** Backend calculation and simulation logic are under active development. End-to-end validation against actual plant operating data is pending confirmation of engineering definitions and additional data from the domain expert.
 
 </td>
 <td width="30%" valign="top">
@@ -42,7 +42,7 @@ and simulation problems.
 **Context**
 
 - ⚡ Power Plant
-- 🧩 MBSE / SGAM
+- 🧩 MBSE / Systems Engineering
 - 📐 Simulation
 - 📊 Analysis
 - ⚙️ Software
@@ -51,21 +51,19 @@ and simulation problems.
 </tr>
 </table>
 
-*Currently exploring: Digital Twin concepts (self-study, not yet applied on the job)*
-
 ---
 
-## 🧪 Previous Experience — Software Testing
+### 🧪 Previous Experience — Software Testing
 
-**Software Tester Intern — LEXNETIX CO., LTD.**
+**Software Tester Intern — LEXNETIX CO., LTD.**  
 Mar 2026 – May 2026
 
-Manual testing on a production-level PDPA web application
-across Dev, UAT, and customer environments.
+Performed **Manual Testing** on a production-level PDPA Web Application across multiple systems and versions in **Dev, UAT, and remote customer environments**, working within Agile/Sprint workflows.
 
-- Designed 1,200+ manual test cases across 4 user roles
-- Functional, regression, and exploratory testing
-- Bug tracking and retesting within an Agile/Sprint workflow
+- Tested across **4 user roles — DPO, Advisory, Admin, and User** — to validate role-based permissions and functional flows across different access levels
+- Designed and created **1,200+ test cases** using Google Sheets based on UX/UI designs and live system behavior, covering **System Settings and DPA/DSA modules** with Positive and Negative scenarios
+- Conducted **Functional Testing** across core modules including **ROPA, Consent, DSAR, Incident, and System Settings**, as well as newly introduced features across different system versions
+- Reported and tracked defects through **ClickUp**, performed retesting after fixes, and collaborated with **Developers and UX/UI teams** within Agile/Sprint workflows
 
 ---
 
@@ -74,12 +72,14 @@ across Dev, UAT, and customer environments.
 <table>
 <tr>
 <td align="center" width="20%">🧩<br><b>Digital Engineering</b><br><sub>& Simulation</sub></td>
-<td align="center" width="20%">🏗️<br><b>Systems Engineering</b></td>
+<td align="center" width="20%">🏗️<br><b>Systems Engineering</b><br><sub>& MBSE</sub></td>
 <td align="center" width="20%">💻<br><b>Software Engineering</b></td>
-<td align="center" width="20%">📊<br><b>Data Analysis</b><br><sub>& Automation</sub></td>
-<td align="center" width="20%">🧪<br><b>Testing</b><br><sub>& Security Validation</sub></td>
+<td align="center" width="20%">📊<br><b>Engineering Analysis</b><br><sub>& Automation</sub></td>
+<td align="center" width="20%">🧪<br><b>Verification & Validation</b></td>
 </tr>
 </table>
+
+> **Currently exploring:** Digital Twin concepts through self-study; not yet applied on the job.
 
 ---
 
