@@ -21,20 +21,20 @@
 <tr>
 <td width="70%" valign="top">
 
-**Digital Engineer · Precise System and Project Co., Ltd.**
-Aug 2026 – Present
+**Engineering Simulation & Power Plant Performance Verification**  
+**Sole Developer of the Software Components · Python, FastAPI, Pydantic, React, TypeScript, pytest, Ruff**
 
-Designing and developing a Python-based engineering calculation and simulation engine to address limitations of existing Excel-based power plant calculations and provide a structured tool for performance verification and operator visibility.
+Designed and developed a Python-based engineering calculation and simulation engine to address the limitations of the plant’s existing Excel-based calculations, establishing a structured calculation pipeline for performance verification across **Fuel, Combustion, Boiler, Steam, Turbine, Gearbox, Generator, Waste, Water Balance, and Cooling Tower** domains, including steam property calculations using **IAPWS-IF97**.
 
-Responsible for system design and implementation from the ground up, working closely with an Electrical Engineer who provides domain expertise, validates engineering assumptions and calculation models, and coordinates with plant engineers to obtain operational data.
+Analyzed the Mechanical Engineer’s existing Excel calculation workbooks and translated their engineering logic into backend code, tracing formulas section by section in collaboration with the engineer. Researched relevant engineering literature, references, and standards to develop draft calculation approaches for presentation to engineers for review, validation, and technical guidance.
 
-The calculation engine is being developed as an integrated pipeline across **Fuel, Steam, Boiler, Turbine, Generator, and Waste** domains. Implemented calculation and validation modules for core areas, including steam property calculations using **IAPWS-IF97**, with additional engineering definitions and modules currently in progress.
+Translated requirements and needs from engineers and stakeholders into a structured **requirements register and task matrix**. Assessed data readiness for each development phase and recommended an implementation phasing plan to the supervisor. Maintained an **append-only engineering decision log with 180+ entries** to document assumptions, technical rationale, engineering interpretations, and implementation decisions throughout development.
 
-Designed **System Architecture, Use Case diagrams, CONOPS, and calculation workflows**, applying **Systems Engineering and MBSE** principles. Established structured technical documentation covering data requirements, engineering decisions, validation criteria, and implementation decisions to maintain traceability throughout development.
+Designed a **data provenance and traceability model** that records the source and status of every engineering value as **confirmed, assumed, user-entered, or calculated**. Produced the **System Architecture, Use Case diagrams, CONOPS, and calculation workflows**, enabling the origin of formulas, assumptions, input data, and engineering decisions to be traced throughout the system.
 
-Developed the project using **Python, pytest, and Ruff**, with structured input validation, automated testing, and code-quality checks supporting the reliability and maintainability of the calculation engine.
+Built and tested the system across the full software stack, including a **REST API using FastAPI and Pydantic**, an **operator dashboard using React and TypeScript**, and automated validation using **pytest and Ruff**. Developed more than **600 automated tests** covering unit, integration, API, and API-to-frontend consistency testing to support system reliability and maintainability.
 
-**Current Status:** Backend calculation and simulation logic are under active development. End-to-end validation against actual plant operating data is pending confirmation of engineering definitions and additional data from the domain expert.
+**Current Status:** Backend calculation modules, REST API, and operator dashboard have been implemented across the full calculation pipeline and have passed preliminary engineering review. End-to-end validation against actual plant operating data is pending confirmation of remaining engineering definitions and additional operational data from the domain expert.
 
 </td>
 <td width="30%" valign="top">
