@@ -22,19 +22,17 @@
 <td width="70%" valign="top">
 
 **Engineering Simulation & Power Plant Performance Verification**  
-**Sole Developer of the Software Components · Python, FastAPI, Pydantic, React, TypeScript, pytest, Ruff**
+**Solo Developer · End-to-End Software Development**  
+**Tech Stack:** Python, FastAPI, Pydantic, React, TypeScript, pytest, Ruff
 
-Designed and developed a Python-based engineering calculation and simulation engine to address the limitations of the plant’s existing Excel-based calculations, establishing a structured calculation pipeline for performance verification across **Fuel, Combustion, Boiler, Steam, Turbine, Gearbox, Generator, Waste, Water Balance, and Cooling Tower** domains, including steam property calculations using **IAPWS-IF97**.
+- Designed and built a multi-domain engineering calculation and simulation engine in Python to improve the accuracy and traceability of Excel-based power plant performance calculations. Supports forward calculation (from plant inputs to power output) and backward calculation (from a target power output to required equipment efficiency, fuel feed rate, and other operating parameters), covering fuel, combustion, boiler, steam, turbine, gearbox, generator, waste, water balance, and cooling tower, with IAPWS-IF97 for water and steam thermodynamic properties.
+- Co-developed and verified the calculation methodology with the Mechanical Engineer: analyzed existing workbooks, cross-checked formulas against engineering principles, researched standards and literature to propose draft approaches, and applied curve fitting to estimate equipment efficiency values.
+- Built the full stack independently: REST API (FastAPI/Pydantic), operator dashboard (React/TypeScript), and 800+ automated tests (pytest) spanning unit, integration, API, and API–frontend consistency, with Ruff for linting.
+- Designed a data provenance model recording the source and status of every value (confirmed / assumed / user-entered / calculated), supported by system architecture, use case diagrams, CONOPS, calculation workflows, and a decision log, so every formula and engineering decision is traceable.
+- Translated engineer and stakeholder requirements into a requirements register and task matrix, and recommended a phased plan to my supervisor based on data readiness.
 
-Analyzed the Mechanical Engineer’s existing Excel calculation workbooks and translated their engineering logic into backend code, tracing formulas section by section in collaboration with the engineer. Researched relevant engineering literature, references, and standards to develop draft calculation approaches for presentation to engineers for review, validation, and technical guidance.
-
-Translated requirements and needs from engineers and stakeholders into a structured **requirements register and task matrix**. Assessed data readiness for each development phase and recommended an implementation phasing plan to the supervisor. Maintained an **append-only engineering decision log with 180+ entries** to document assumptions, technical rationale, engineering interpretations, and implementation decisions throughout development.
-
-Designed a **data provenance and traceability model** that records the source and status of every engineering value as **confirmed, assumed, user-entered, or calculated**. Produced the **System Architecture, Use Case diagrams, CONOPS, and calculation workflows**, enabling the origin of formulas, assumptions, input data, and engineering decisions to be traced throughout the system.
-
-Built and tested the system across the full software stack, including a **REST API using FastAPI and Pydantic**, an **operator dashboard using React and TypeScript**, and automated validation using **pytest and Ruff**. Developed more than **600 automated tests** covering unit, integration, API, and API-to-frontend consistency testing to support system reliability and maintainability.
-
-**Current Status:** Backend calculation modules, REST API, and operator dashboard have been implemented across the full calculation pipeline and have passed preliminary engineering review. End-to-end validation against actual plant operating data is pending confirmation of remaining engineering definitions and additional operational data from the domain expert.
+**Current Status (Phase 1):** Backend, API, and dashboard are fully implemented across the pipeline. Calculation formulas are reviewed and approved by the Mechanical Engineer; review by the electrical engineering supervisor and on-site plant trials are pending.  
+**Next Phase:** 3D plant model (Blender), load-dependent auxiliary power consumption, and demineralized water production.
 
 </td>
 <td width="30%" valign="top">
